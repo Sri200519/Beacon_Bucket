@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "34sbk19o9k45eah7e98rj4rghj_20240820T130000Z",
+        "summary": "BRIDGEPORT - Park City Outreach @Klein Memorial",
+        "start": "2024-08-20T09:00:00-04:00",
+        "end": "2024-08-20T09:45:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>9-9:45AM</b><br><b>FAIRFIELD COUNTY<br></b><br>Large parking lot across the street from Klein Memorial building.",
+        "location": "910 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3ma79hu4g0ct8a0soqahtipq5n_20240820T130000Z",
+        "summary": "NEW BRITAIN - St. Ann Church",
+        "start": "2024-08-20T09:00:00-04:00",
+        "end": "2024-08-20T09:45:00-04:00",
+        "description": "Every 2 weeks on Tuesday,<b> 9:00-9:45AM</b><br><b>HARTFORD COUNTY</b>",
+        "location": "101 North St, New Britain, CT 06051, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ceb37fg3g3t4pn9jtbpcjl020b_20240820T131500Z",
+        "summary": "SOUTHINGTON - The Tabernacle",
+        "start": "2024-08-20T09:15:00-04:00",
+        "end": "2024-08-20T09:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>9:15-9:45AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "1445 West St, Southington, CT 06489, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pmaq6trrnosvndr1ks4d2nic0i_20240820T131500Z",
+        "summary": "WATERBURY - CANCELLED till further notice  PAL Enlightenment",
+        "start": "2024-08-20T09:15:00-04:00",
+        "end": "2024-08-20T10:00:00-04:00",
+        "description": "Every 2 weeks on Tuesday,<b> 9:15-10AM</b><br><b>NEW HAVEN COUNTY</b>",
+        "location": "64 Division St, Waterbury, CT 06704, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "16tf2ebf74g2tjdg323g2n340c_20240820T141500Z",
+        "summary": "NEW BRITAIN - HA Scarlett Drive",
+        "start": "2024-08-20T10:15:00-04:00",
+        "end": "2024-08-20T10:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>10:15-10:45AM</b><br><b>HARTFORD COUNTY<br></b><br>Last parking lot on the right.<br><u></u>",
+        "location": "43 Scarlett Dr, New Britain, CT 06053, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cgl8lteovn2bd7uo44f9h1hdi3_20240820T144500Z",
+        "summary": "NEW HAVEN - Clinton Avenue School",
+        "start": "2024-08-20T10:45:00-04:00",
+        "end": "2024-08-20T11:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>10:45-11:30AM</b><br><b>NEW HAVEN COUNTY<br></b><u></u><br><u></u><u></u>",
+        "location": "Clinton Avenue School, 293 Clinton Ave, New Haven, CT 06513, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "l7ikdtfih9n5ator788uvmueai_20240820T150000Z",
+        "summary": "BURLINGTON - Burlington Social Services",
+        "start": "2024-08-20T11:00:00-04:00",
+        "end": "2024-08-20T11:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>11:00-11:30AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "200 Spielman Hwy, Burlington, CT 06013, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ldqumdfm0jfb0g53m4vcdsdeai_20240820T163000Z",
+        "summary": "WINSTED - Northwest Comm College",
+        "start": "2024-08-20T12:30:00-04:00",
+        "end": "2024-08-20T13:15:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>12:30-1:15PM</b><br><b>LITCHFIELD COUNTY<br></b><br>Parking lot at intersection with Holabird Ave.",
+        "location": "119 N Main St, Winsted, CT 06098, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4nrs9rr0q1745rs0j7a7m44vhj_20240820T164500Z",
+        "summary": "BLOOMFIELD - Bloomfield Senior Center",
+        "start": "2024-08-20T12:45:00-04:00",
+        "end": "2024-08-20T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>12:45-1:30PM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "330 Park Ave, Bloomfield, CT 06002, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pj9toothfg7s73veefnmnqegdn_20240820T170000Z",
+        "summary": "GRANBY - Waste Not Want Not - South Congregational Church",
+        "start": "2024-08-20T13:00:00-04:00",
+        "end": "2024-08-20T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>1:00-1:30 PM</b><br><b>HARTFORD COUNTY<br></b><br>Park behind church.",
+        "location": "242 Salmon Brook St, Granby, CT 06035, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0to7rclhhq38u8fegdbr18tceg_20240820T180000Z",
+        "summary": "EAST HAVEN - FRC@ Adult Ed",
+        "start": "2024-08-20T14:00:00-04:00",
+        "end": "2024-08-20T14:45:00-04:00",
+        "description": "<p>Every 2 weeks on Tuesday, <b>2-2:45PM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "290 Dodge Ave, East Haven, CT 06512, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0h255ug4v8n2geahqpcup5hm32_20240821T130000Z",
+        "summary": "HARTFORD - Pope Park",
+        "start": "2024-08-21T09:00:00-04:00",
+        "end": "2024-08-21T09:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>9-9:45AM</b><br><b>HARTFORD COUNTY<br></b><br>Across from Arroyo Rec Center.<br><br><u></u><br><u></u>",
+        "location": "30 Pope Park Dr, Hartford, CT 06106, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pl1cnng5mi0v6aim35u1u124ja_20240821T130000Z",
+        "summary": "WETHERSFIELD - Wethersfield SS: Lancaster Road",
+        "start": "2024-08-21T09:00:00-04:00",
+        "end": "2024-08-21T09:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Wednesday, <b>9-9:30AM</b></td></tr></tbody></table><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "55 Lancaster Rd, Wethersfield, CT 06109, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "i75nma3549buh4d2jht2eln2cj_20240821T140000Z",
+        "summary": "GLASTONBURY - First Church of Christ Congregational",
+        "start": "2024-08-21T10:00:00-04:00",
+        "end": "2024-08-21T10:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>10-10:45AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "2183 Main St, Glastonbury, CT 06033, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "l2ta35o3mgpv2fe9bju6ieldv0_20240821T153000Z",
+        "summary": "HARTFORD - Cathedral of St. Joseph",
+        "start": "2024-08-21T11:30:00-04:00",
+        "end": "2024-08-21T12:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>11:30AM-12:15PM</b><br><b>HARTFORD COUNTY<br></b><br>Back parking lot - 809 Asylum Ave.<br><br><u></u>",
+        "location": "140 Farmington Ave, Hartford, CT 06105, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4mp4ve4sbi1hfq7hj4209q368s_20240821T154500Z",
+        "summary": "DANBURY - New Hope Baptist Church",
+        "start": "2024-08-21T11:45:00-04:00",
+        "end": "2024-08-21T12:45:00-04:00",
+        "description": "Every 2 weeks on Wednesday, <b>11:45AM-12:45PM </b><br><b>FAIRFIELD COUNTY<br><br></b>Masks are encouraged at this site.",
+        "location": "10 Dr Aaron B Samuels Blvd, Danbury, CT 06810, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "2jnggsf6qeen67toduirmpv1ul_20240821T160000Z",
+        "summary": "BEACON FALLS - Commuter Lot",
+        "start": "2024-08-21T12:00:00-04:00",
+        "end": "2024-08-21T13:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>12PM-1PM</b><br><b>NEW HAVEN COUNTY</b><p>Beacon Falls Commuter Lot<br></p><br><u></u>",
+        "location": "105 N Main St, Beacon Falls, CT 06403, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "hsmc632san7tb8tjfnvbb8lct0_20240821T160000Z",
+        "summary": "MANCHESTER - New River Community Church",
+        "start": "2024-08-21T12:00:00-04:00",
+        "end": "2024-08-21T12:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every 2 weeks on Wednesday, <b>12-12:30PM<br>HARTFORD COUNTY</b></td></tr></tbody></table><br><u></u>",
+        "location": "314 Woodbridge St, Manchester, CT 06042, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "dnus484bdtbb5rn8tvthu17nn7_20240821T180000Z",
+        "summary": "WINDSOR - Windsor Food & Fuel - Hopewell Baptist Church",
+        "start": "2024-08-21T14:00:00-04:00",
+        "end": "2024-08-21T14:30:00-04:00",
+        "description": "Every  2 weeks on Wednesday, <b>2-2:30pm</b><br><b>HARTFORD COUNTY</b>",
+        "location": "280 Windsor Ave, Windsor, CT 06095, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3eh3d31h91qfr8dcn6brr890bb_20240821T203000Z",
+        "summary": "BRIDGEPORT - Bridgeport Hospital",
+        "start": "2024-08-21T16:30:00-04:00",
+        "end": "2024-08-21T17:15:00-04:00",
+        "description": "Every 2 weeks on Wednesday, 4:30-5:15PM\nFAIRFIELD COUNTY\n\nPARKING LOT BEHIND 200 Mill Hill Ave.",
+        "location": "200 Mill Hill Ave, Bridgeport, CT 06610, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "gs9o2rotaru3hvc797f8s3nl28_20240821T203000Z",
+        "summary": "NEW MILFORD - Faith Church",
+        "start": "2024-08-21T16:30:00-04:00",
+        "end": "2024-08-21T17:30:00-04:00",
+        "description": "Every 2 weeks on Wednesday, 4:30-5:30PM\nLITCHFIELD COUNTY",
+        "location": "600 Danbury Rd, New Milford, CT 06776, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "b2622a84kg1mkcdnpcmttqvkbj_20240822T124500Z",
+        "summary": "NEWINGTON - SS Market Square",
+        "start": "2024-08-22T08:45:00-04:00",
+        "end": "2024-08-22T09:15:00-04:00",
+        "description": "Every 2 weeks on Thursday, 8:45-9:15AM\nHARTFORD COUNTY\n\nOff Constance Leigh Dr. Ext.",
+        "location": "84 Market Square, Newington, CT 06111, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "keo1gamn8ql7e8ggnet3gn2sl8_20240822T130000Z",
+        "summary": "ELLINGTON - Ellington LDS Church",
+        "start": "2024-08-22T09:00:00-04:00",
+        "end": "2024-08-22T09:30:00-04:00",
+        "description": "Every  2 weeks on Thursday, 9-9:30AM\nTOLLAND COUNTY",
+        "location": "2 Maple St, Ellington, CT 06029, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ee4k7gl1tq8sjpc2piuosd8anr_20240822T133000Z",
+        "summary": "WEST HAVEN - Vertical Church",
+        "start": "2024-08-22T09:30:00-04:00",
+        "end": "2024-08-22T10:30:00-04:00",
+        "description": "<u></u><u></u>Every 2 weeks on Thursday, <b>9:30-10:30AM</b><br><b>NEW HAVEN COUNTY</b><br><u></u><br><u></u><u></u>",
+        "location": "225 Meloy Rd, West Haven, CT 06516, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4ot8okuragpomdma4rs7q4tn10_20240822T134500Z",
+        "summary": "PLAINFIELD - Central Assembly of God ",
+        "start": "2024-08-22T09:45:00-04:00",
+        "end": "2024-08-22T10:45:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>9:45-10:45AM</b><u></u>",
+        "location": "350 Putnam Rd, Wauregan, CT 06387, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "h2a837ruhisf9gdohkhlptpr53_20240822T140000Z",
+        "summary": "TOLLAND - United Congregational Church of Tolland",
+        "start": "2024-08-22T10:00:00-04:00",
+        "end": "2024-08-22T10:30:00-04:00",
+        "description": "Every 2 weeks on Thursday, 10-10:30AM",
+        "location": "45 Tolland Green, Tolland, CT 06084, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "8uejd2984i9s1scvjauggonhgt_20240822T141500Z",
+        "summary": "HARTFORD - New Mt. Moriah Baptist Church",
+        "start": "2024-08-22T10:15:00-04:00",
+        "end": "2024-08-22T11:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks on Thursday, <b>10:15-11AM<br></b></td></tr></tbody></table><u></u>",
+        "location": "222 Barbour St, Hartford, CT 06120, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6f8mmohh7ogijf8ob3rpl07akb_20240822T153000Z",
+        "summary": "MANSFIELD - Mansfield Human Services",
+        "start": "2024-08-22T11:30:00-04:00",
+        "end": "2024-08-22T12:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>11:30AM-12PM</b><table><colgroup><col></colgroup><tbody><tr><td><br><br></td></tr></tbody></table><u></u>",
+        "location": "Wrights Way Complex, 309 Maple Road, Mansfield, Storrs",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "jsj098f0cpfcnstrdtfq5mchd8_20240822T163000Z",
+        "summary": "WATERBURY - UConn with United Way",
+        "start": "2024-08-22T12:30:00-04:00",
+        "end": "2024-08-22T13:30:00-04:00",
+        "description": "Every 2 weeks on Thursday, 12:30 - 1:30pm",
+        "location": "119 N Main St, Waterbury, CT 06702, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cjuofct8v4id2dfqsgju8ps26o_20240822T170000Z",
+        "summary": "COLUMBIA - Beckish @Rec. Park  ",
+        "start": "2024-08-22T13:00:00-04:00",
+        "end": "2024-08-22T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>1-1:30PM</b><br><u></u>",
+        "location": "60 Hennequin Rd, Columbia, CT 06237, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "30i6tav0662f3l08ut2qf35867_20240822T171500Z",
+        "summary": "MERIDEN - Mount Hebron",
+        "start": "2024-08-22T13:15:00-04:00",
+        "end": "2024-08-22T14:15:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>1:15-2:15PM</b><u></u>",
+        "location": "84 Franklin St, Meriden, CT 06450, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "nqub8bpdsd153t7ci9lf0phg5k_20240822T171500Z",
+        "summary": "HARTFORD - Church of the Good Shepherd",
+        "start": "2024-08-22T13:15:00-04:00",
+        "end": "2024-08-22T14:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks Thursday, <b>1:15-2PM<br></b></td></tr></tbody></table><br><u></u>",
+        "location": "155 Wyllys St, Hartford, CT 06106, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "85hg4peo5a0fd5phede6scfg1u_20240823T123000Z",
+        "summary": "BRISTOL - U.W.W.C.C. at First Congregational Church ",
+        "start": "2024-08-23T08:30:00-04:00",
+        "end": "2024-08-23T09:15:00-04:00",
+        "description": "New Location at First Congregational Church - Near Federal Hill Green (follow signs for Bristol Hospital. \n\n\nEvery 2 weeks on Friday, 8:30-9:15AM",
+        "location": "31 Maple St, Bristol, CT 06010, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "j9qcidbk0gvo06m604p6755530_20240823T124500Z",
+        "summary": "HAMDEN - Hasan Islamic Center",
+        "start": "2024-08-23T08:45:00-04:00",
+        "end": "2024-08-23T09:30:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Friday, <b>8:45-9AM</b></p><u></u><u></u><u></u>",
+        "location": "Muhammad Islamic Center, 870 Dixwell Ave, Hamden, CT 06514, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "h9d150v8osmfnolsor3n2nqis9_20240823T130000Z",
+        "summary": "OLD SAYBROOK - Grace Episcopal Church",
+        "start": "2024-08-23T09:00:00-04:00",
+        "end": "2024-08-23T09:45:00-04:00",
+        "description": "<u></u><u></u><p>Every 4 weeks on Friday, <b>9-9:45AM</b></p><u></u><u></u>",
+        "location": "336 Main St, Old Saybrook, CT 06475, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "7028r89gnoogoa8deqe9lbpmfc_20240823T133000Z",
+        "summary": "BRANFORD - Antioch Church",
+        "start": "2024-08-23T09:30:00-04:00",
+        "end": "2024-08-23T10:15:00-04:00",
+        "description": "Every other Friday. <br><br>Distribution sites/days/times are subject to change due to weather and unforeseen circumstances. Check back often.<br><br>Please also visit <a href=\"https://www.211.org/\"><u>https://www.211.org</u></a> or call 2-1-1 for more food resource information.<u></u>",
+        "location": "65 Burban Dr, Branford, CT 06405, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "o9dic6i8i2jrfg99c5u31fbofs_20240823T143000Z",
+        "summary": "HARTFORD - Bible Way Temple Nation",
+        "start": "2024-08-23T10:30:00-04:00",
+        "end": "2024-08-23T11:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>10:30-11:15AM.</b><br><u></u><br><u></u>",
+        "location": "3053 Main St, Hartford, CT 06120, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "li3nsobc5liv7rrr043ghug2b6_20240823T144500Z",
+        "summary": "NEW BRITAIN - Wheeler Clinic - New Site!  ",
+        "start": "2024-08-23T10:45:00-04:00",
+        "end": "2024-08-23T11:30:00-04:00",
+        "description": "Every other Friday from 10:45 am - 11:45 am",
+        "location": "40 Hart St, New Britain, CT 06052, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3caal8g3t1u5btrqm668pm585r_20240823T170000Z",
+        "summary": "BRIDGEPORT - St. Vincents Hospital",
+        "start": "2024-08-23T13:00:00-04:00",
+        "end": "2024-08-23T14:00:00-04:00",
+        "description": "Every 2 weeks on Friday, <b>1-2PM</b><br><br>VALET PARKING AREA.",
+        "location": "2800 Main St, Bridgeport, CT 06606, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "51ssun62pt4pkd3cfr1mel7v2i_20240823T170000Z",
+        "summary": "NEW LONDON - St. Mary Star of the Sea",
+        "start": "2024-08-23T13:00:00-04:00",
+        "end": "2024-08-23T14:00:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Friday, <b>1-2PM</b></p><u></u><u></u>",
+        "location": "10 Huntington St, New London, CT 06320, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ka63v66nekklr4ionv802i9t4s_20240823T170000Z",
+        "summary": "WEST HARTFORD - Congregation Beth Israel",
+        "start": "2024-08-23T13:00:00-04:00",
+        "end": "2024-08-23T13:45:00-04:00",
+        "description": "<u></u>Every 4 weeks on Friday, <b>1-1:45PM</b><br><u></u><br><u></u>",
+        "location": "701 Farmington Ave, West Hartford, CT 06119, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pusqp9dqvrh3cu4fhb4g3oa49n_20240823T171500Z",
+        "summary": "HARTFORD - St. Augustine Church: Webster Theater",
+        "start": "2024-08-23T13:15:00-04:00",
+        "end": "2024-08-23T14:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks on Friday, <b>1:15-2PM<br><br></b></td></tr></tbody></table><u></u>",
+        "location": "31 Webster St, Hartford, CT 06114, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "239i5rjtbtknbnnhhg9n3l3n3f_20240824T133000Z",
+        "summary": "NORWALK - Ben Franklin PreSchool",
+        "start": "2024-08-24T09:30:00-04:00",
+        "end": "2024-08-24T10:30:00-04:00",
+        "description": "Monthly on the 4th Saturday, <b>9:30-10:30AM</b>",
+        "location": "165 Flax Hill Rd, Norwalk, CT 06854, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "rr2okeulbssh6rsaaj1v2130u7_20240824T133000Z",
+        "summary": "NEW BRITAIN - HRA",
+        "start": "2024-08-24T09:30:00-04:00",
+        "end": "2024-08-24T10:30:00-04:00",
+        "description": "<u></u>4th Saturday of the month, <b>9:30-10:30AM</b><u></u>",
+        "location": "180 Clinton St, New Britain, CT 06053, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "2t24e2l0u95dmf9pcdd9i72bqe_20240826T130000Z",
+        "summary": "SHELTON - Good Shepherd",
+        "start": "2024-08-26T09:00:00-04:00",
+        "end": "2024-08-26T10:00:00-04:00",
+        "description": "Every 2 weeks on Monday, <b>9-10AM</b>",
+        "location": "182 Coram Ave, Shelton, CT 06484, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cjtgtl9rfkcqglilhcbe1ba4n8_20240826T130000Z",
+        "summary": "BRISTOL - HA Cambridge Park",
+        "start": "2024-08-26T09:00:00-04:00",
+        "end": "2024-08-26T09:30:00-04:00",
+        "description": "Every 2 weeks on Monday, 9-9:30AM\nHARTFORD COUNTY\n\nSecond driveway on left",
+        "location": "207 Davis Dr, Bristol, CT 06010, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "2p2tith8blr4du0bbd70i604hf_20240826T131500Z",
+        "summary": "BRISTOL - HA Gaylord / JFK",
+        "start": "2024-08-26T09:15:00-04:00",
+        "end": "2024-08-26T09:45:00-04:00",
+        "description": "Every 2 weeks on Monday, 9:15-9:45AM",
+        "location": "70 Gaylord St, Bristol, CT 06010, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6suft4fj88pp5jgdvcd05se73i_20240826T133000Z",
+        "summary": "WILLIMANTIC - First Congregational Church",
+        "start": "2024-08-26T09:30:00-04:00",
+        "end": "2024-08-26T10:30:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Monday, <b>9:30-10:30AM</b></p><u></u><u></u>",
+        "location": "199 Valley St, Willimantic, CT 06226, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "1dsq0murhosj4rq2i7rjg02tgo_20240826T143000Z",
+        "summary": "NEW BRITAIN - CHC",
+        "start": "2024-08-26T10:30:00-04:00",
+        "end": "2024-08-26T11:15:00-04:00",
+        "description": "Every 2 weeks on Monday, 10:30-11:15AM",
+        "location": "Community Health Center of New Britain, 85 Lafayette St, New Britain, CT 06051, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "n4rhsg34tobg8a75q067clgamq_20240826T161500Z",
+        "summary": "HARTFORD - UMC of Hartford",
+        "start": "2024-08-26T12:15:00-04:00",
+        "end": "2024-08-26T13:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Monday, <b>12:15-1PM</b><u></u>",
+        "location": "571 Farmington Ave, Hartford, CT 06105, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "243o3mlpiodnnm6h3vano62ho3_20240826T170000Z",
+        "summary": "BRIDGEPORT - Claytor Magnet Academy",
+        "start": "2024-08-26T13:00:00-04:00",
+        "end": "2024-08-26T13:30:00-04:00",
+        "description": "Every 2 weeks on Monday. 1:00 - 1:30 pm.",
+        "location": "240 Ocean Terrace, Bridgeport, CT 06605, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pcaak3ugslqp2mo73jnvndb636_20240826T170000Z",
+        "summary": "PORTLAND - Portland Senior Center",
+        "start": "2024-08-26T13:00:00-04:00",
+        "end": "2024-08-26T13:45:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Monday, <b>1-1:45PM</b></p><u></u><u></u><u></u>",
+        "location": "7 Waverly Ave, Portland, CT 06480, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4drjknr3ug5gnf64f9ms9iepkc_20240826T173000Z",
+        "summary": "EAST HARTFORD - SS Veterans Terrace",
+        "start": "2024-08-26T13:30:00-04:00",
+        "end": "2024-08-26T14:00:00-04:00",
+        "description": "Every 2 weeks on Monday, <b>1:30-2PM</b><br><br><b><i>TEMPORARY NEW LOCATION AT 57 COLUMBUS CIRCLE. Distribution is in REAR parking lot behind 57 Columbus Circle (drive around the circle to see parking lot entrance behind building #57).&nbsp;</i></b><u></u><u></u><u></u>",
+        "location": "102 Columbus St, East Hartford, CT 06108, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "op4918b2heh0lupqh7q55jik5e_20240826T173000Z",
+        "summary": "HARTFORD - Grace Worship Center Church",
+        "start": "2024-08-26T13:30:00-04:00",
+        "end": "2024-08-26T14:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every  2 weeks on Monday, <b>1:30-2PM</b></td> </tr></tbody></table><u></u>",
+        "location": "750 Wethersfield Ave, Hartford, CT 06114, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "23vo1ji3o3uvt6ti8bual7hb91_20240827T123000Z",
+        "summary": "WALLINGFORD - Senior Center",
+        "start": "2024-08-27T08:30:00-04:00",
+        "end": "2024-08-27T09:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>8:30-9:15AM</b><u></u><br><b>NEW HAVEN COUNTY</b>",
+        "location": "Wallingford Senior Center, 238 Washington St, Wallingford, CT 06492, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ra1bemmjm4u45g2btet405k77p_20240827T130000Z",
+        "summary": "FARMINGTON - St. Mary Star of the Sea",
+        "start": "2024-08-27T09:00:00-04:00",
+        "end": "2024-08-27T09:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>9-9:30AM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "145 Main St, Unionville, CT 06085, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "vig8tcikc185ge6h70pn1tshek_20240827T130000Z",
+        "summary": "MANCHESTER - Squire Village",
+        "start": "2024-08-27T09:00:00-04:00",
+        "end": "2024-08-27T09:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>9-9:30AM HARTFORD COUNTY</b><br><br>Use Imperial Drive Access; then left onto Queen Court.<br><u></u>",
+        "location": "48 Spencer St, Manchester, CT 06040, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "oc7708jo7ag7o05iob3p3dkpiv_20240827T140000Z",
+        "summary": "BOLTON - St. George Episcopal Church",
+        "start": "2024-08-27T10:00:00-04:00",
+        "end": "2024-08-27T10:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>10-10:30AM</b><u></u><br><b>TOLLAND COUNTY</b>",
+        "location": "1150 Boston Turnpike, Route 44,Bolton, CT 06043, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "rual17a3f007hlnepad5aekot4_20240827T140000Z",
+        "summary": "AVON - Gifts of Love @Farmington Valley American Muslim Center",
+        "start": "2024-08-27T10:00:00-04:00",
+        "end": "2024-08-27T10:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday <b>10-10:30am</b><br><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "35 Harris Rd, Avon, CT 06001, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "1asallpulgkpdehkk4alenpsjt_20240827T144500Z",
+        "summary": "NEW HAVEN - Better Tomorrows Brookside NEW",
+        "start": "2024-08-27T10:45:00-04:00",
+        "end": "2024-08-27T11:30:00-04:00",
+        "description": "<p>Every 2 weeks on Tuesday, <b>10:45-11:30AM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "6 Solomon Crossing, New Haven, CT 06515, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "mqlv8eknfv2ehvso4dmbd540h8_20240827T150000Z",
+        "summary": "WEST HARTFORD - Town of West Hartford",
+        "start": "2024-08-27T11:00:00-04:00",
+        "end": "2024-08-27T11:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>11-11:30AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "100 Mayflower St, West Hartford, CT 06110, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "nfu35c4d6fche27jp8ms8b22it_20240827T150000Z",
+        "summary": "MILFORD - Kingdom Life Christian Church Cathedral",
+        "start": "2024-08-27T11:00:00-04:00",
+        "end": "2024-08-27T12:00:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>11AM-12PM</b><br><b>NEW HAVEN COUNTY</b>",
+        "location": "1455 Naugatuck Ave, Milford, CT 06461, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6iviumc1d7pucd9kh6unqb6gt7_20240827T151500Z",
+        "summary": "HEBRON - Hebron Interfaith Human Services",
+        "start": "2024-08-27T11:15:00-04:00",
+        "end": "2024-08-27T11:45:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>11:15-11:45AM</b><br><b>TOLLAND COUNTY</b><p><br></p><u></u>",
+        "location": "1 Main St, Hebron, CT 06248, USA (Corner of Rt. 66 & Rt. 85)",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0sebgupq2s3g3ouh8tck9u7vb6_20240827T170000Z",
+        "summary": "VERNON - Park West Apartments - Terrace Drive",
+        "start": "2024-08-27T13:00:00-04:00",
+        "end": "2024-08-27T13:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Tuesday, <b>1-1:30PM</b></td></tr></tbody></table><b>TOLLAND COUNTY</b><br><u></u>",
+        "location": "24 Terrace Dr, Vernon, CT 06066, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ap2us0r9r59cq5hvv1un6ip3qv_20240827T171500Z",
+        "summary": "SUFFIELD - West Suffield Congregational Church",
+        "start": "2024-08-27T13:15:00-04:00",
+        "end": "2024-08-27T13:45:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every 2 weeks on Tuesday, <b>1:15-1:45AM</b></td></tr></tbody></table><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "1408 Mountain Rd, West Suffield, CT 06093, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "1njt0m2etga4dtt7cp0nu4rf24_20240827T173000Z",
+        "summary": "WEST HAVEN - Errera Center",
+        "start": "2024-08-27T13:30:00-04:00",
+        "end": "2024-08-27T14:15:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>1:30-2:15PM</b><br><b>NEW HAVEN COUNTY</b>",
+        "location": "127 Boston Post Rd, West Haven, CT 06516, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "503ku8cdt51qidgg9t3kpkonpq_20240827T181500Z",
+        "summary": "DERBY - Our Lady Queen of Apostles",
+        "start": "2024-08-27T14:15:00-04:00",
+        "end": "2024-08-27T15:00:00-04:00",
+        "description": "<p>Every 2 weeks on Tuesday, <b>2:15-3PM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "212 Elizabeth St, Derby, CT 06418, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ghg52o29nljoq8co30c9a3ip88_20240828T130000Z",
+        "summary": "ANDOVER - Andover Congregational Church",
+        "start": "2024-08-28T09:00:00-04:00",
+        "end": "2024-08-28T09:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>9-9:30AM</b><br><b>TOLLAND COUNTY<br></b><br><u></u>",
+        "location": "359 US-6, Andover, CT 06232, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "vb5cu9jud2o6bc44vf3t893t4h_20240828T130000Z",
+        "summary": "NEW BRITAIN - HA Knapp Village",
+        "start": "2024-08-28T09:00:00-04:00",
+        "end": "2024-08-28T09:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>9-9:30AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "80 Halsey Rd, New Britain, CT 06051, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "99jmshddfft8tdhnmf2evhge60_20240828T140000Z",
+        "summary": "COVENTRY - 1st Congregational @ St. Mary's",
+        "start": "2024-08-28T10:00:00-04:00",
+        "end": "2024-08-28T10:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>10-10:30AM</b><br><b>TOLLAND COUNTY<br></b><u></u><br><u></u>",
+        "location": "1600 Main St, Coventry, CT 06238, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "a6j4ckmdfkbdspehhcni49v3qs_20240828T143000Z",
+        "summary": "EAST HARTFORD - Living Word Church ",
+        "start": "2024-08-28T10:30:00-04:00",
+        "end": "2024-08-28T11:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>10:30 am to 11:15 am </b><br><b>HARTFORD COUNTY<br></b><br>Parking lot entrance.<br><u></u><br><u></u>",
+        "location": "30 Old Roberts St, East Hartford, CT 06108, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "lcsec35pabk3o1v5skl0gkh7f2_20240828T150000Z",
+        "summary": "WILLINGTON - Willington Town Office Building",
+        "start": "2024-08-28T11:00:00-04:00",
+        "end": "2024-08-28T11:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Wednesday, <b>11-11:30AM<br>TOLLAND COUNTY</b><br><br>Behind Town Hall.<br></td></tr></tbody></table><u></u>",
+        "location": "40 Old Farms Rd, Willington, CT 06279, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "30fb6jn6aj6n1v3pv1qeg64lcj_20240828T153000Z",
+        "summary": "WATERBURY - Washington Park",
+        "start": "2024-08-28T11:30:00-04:00",
+        "end": "2024-08-28T12:30:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Wednesday, <b>11:30AM-12:30PM</b></p><p><b>NEW HAVEN COUNTY</b></p><u></u><u></u><u></u>",
+        "location": "283 Sylvan Ave, Waterbury, CT 06706, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ppv8r56qf7i4a4rl20bmkpltb9_20240828T153000Z",
+        "summary": "TORRINGTON - First Congregational Church",
+        "start": "2024-08-28T11:30:00-04:00",
+        "end": "2024-08-28T12:15:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Wednesday, <b>11:30AM-12:15PM</b></p><p><b>LITCHFIELD COUNTY</b></p><u></u><u></u><u></u>",
+        "location": "835 Riverside Ave, Torrington, CT 06790, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "rjehpd89hk0ov9o1qbs04lflh6_20240828T170000Z",
+        "summary": "WATERBURY - Lion of Judah SDA",
+        "start": "2024-08-28T13:00:00-04:00",
+        "end": "2024-08-28T13:45:00-04:00",
+        "description": "<p>Every 2 weeks on Wednesday, <b>1-1:45PM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "513 Meriden Rd, Waterbury, CT 06705, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "vkt5kh4jb5691ls8hb0pv052vv_20240828T170000Z",
+        "summary": "SOMERS - Cong. Church of Somersville",
+        "start": "2024-08-28T13:00:00-04:00",
+        "end": "2024-08-28T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>1-1:30PM</b><br><b>TOLLAND COUNTY<br></b><u></u><br><u></u>",
+        "location": "599 Main St, Somers, CT 06071, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "20nfggatj5odid0um2t0nuihoe_20240828T203000Z",
+        "summary": "HAMDEN - St. Paul Parish",
+        "start": "2024-08-28T16:30:00-04:00",
+        "end": "2024-08-28T17:30:00-04:00",
+        "description": "<u></u><p>Every 2 weeks on Wednesday, <b>4:30-5:15PM</b></p><p><b>NEW HAVEN COUNTY</b></p><u></u>",
+        "location": "306 Circular Ave, Hamden, CT 06514, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "5n270j94g4c0i9um33srifq961_20240828T203000Z",
+        "summary": "DANBURY - Ellsworth School",
+        "start": "2024-08-28T16:30:00-04:00",
+        "end": "2024-08-28T17:30:00-04:00",
+        "description": "Every 2 weeks on Wednesday, <b>4:30-5:30PM</b><br><b>FAIRFIELD COUNTY</b>",
+        "location": "53 Ellsworth Ave, Danbury, CT 06810, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "5kcve8bg33vo82uhu8v2c1uu3g_20240829T130000Z",
+        "summary": "EAST HAMPTON - Lions @ St. Patrick",
+        "start": "2024-08-29T09:00:00-04:00",
+        "end": "2024-08-29T10:00:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>9-10AM</b><br><b>MIDDLESEX COUNTY</b>",
+        "location": "47 W High St, East Hampton, CT 06424, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6lapjm86jtp3uqo1j9v62b7akp_20240829T130000Z",
+        "summary": "HARTFORD - Northend Senior Center",
+        "start": "2024-08-29T09:00:00-04:00",
+        "end": "2024-08-29T09:45:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Thursday, <b>9-9:45AM</b></td> </tr></tbody></table><br><b>HARTFORD COUNTY</b>",
+        "location": "80 Coventry St, Hartford, CT 06112, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "oflmhvvrir1sn04etvun82t0l7_20240829T130000Z",
+        "summary": " STAFFORD SPRINGS - Stafford Community Center",
+        "start": "2024-08-29T09:00:00-04:00",
+        "end": "2024-08-29T09:30:00-04:00",
+        "description": "<u></u><u></u>Every 2 weeks on Thursday, <b>9-9:30AM</b><u></u><br><b>TOLLAND COUNTY</b>",
+        "location": "3 Buckley Hwy. Stafford Springs, CT 06076",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "n1j51qp09i33s1nrpl331tih77_20240829T131500Z",
+        "summary": "NEW HAVEN - Farnam Community Center",
+        "start": "2024-08-29T09:15:00-04:00",
+        "end": "2024-08-29T10:00:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Thursday, <b>9:15-10AM</b></p><p><b>NEW HAVEN COUNTY</b></p><u></u><u></u>",
+        "location": "162 Fillmore St, New Haven, CT 06513, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ulnri3rng9h0f2u05i01luhtjh_20240829T141500Z",
+        "summary": "VERNON - Cornerstone: St. Bernard's Church",
+        "start": "2024-08-29T10:15:00-04:00",
+        "end": "2024-08-29T10:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>10:15-10:45AM</b><br><u></u>",
+        "location": "25 St Bernard's Terrace, Vernon, CT 06066, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pn4dq2mds1ek3mkjiku7eeeiaf_20240829T143000Z",
+        "summary": "HARTFORD - Grace Church of God ",
+        "start": "2024-08-29T10:30:00-04:00",
+        "end": "2024-08-29T11:15:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks on Thursday, <b>10:30-11:15AM</b></td></tr></tbody></table><u></u>",
+        "location": "235 Wethersfield Ave, Hartford, CT 06114, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cael52qs5k9q73ousl8k3claqa_20240829T144500Z",
+        "summary": "NEW HAVEN - Celentano School",
+        "start": "2024-08-29T10:45:00-04:00",
+        "end": "2024-08-29T11:30:00-04:00",
+        "description": "<u></u><u></u>Every 2 weeks on Thursday, <b>10:45-11:30AM</b><u></u><u></u>",
+        "location": "400 Canner St, New Haven, CT 06511, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "p3m7tslt6kcn6ct5feuqdkfkh4_20240829T153000Z",
+        "summary": "SOUTH WINDSOR - Wapping Community Church",
+        "start": "2024-08-29T11:30:00-04:00",
+        "end": "2024-08-29T12:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>11:30AM-12PM</b><br><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "1790 Ellington Rd, South Windsor, CT 06074, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6qqov260s714id2mltdlk2qvdp_20240829T170000Z",
+        "summary": "MERIDEN - New Opportunities of Greater Meriden",
+        "start": "2024-08-29T13:00:00-04:00",
+        "end": "2024-08-29T14:00:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>1-2PM</b><br><b>NEW HAVEN COUNTY</b><br><b><br></b>",
+        "location": "165 Miller St, Meriden, CT 06450, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0elaj8ngsd4aihijq0vnqr3np7_20240829T171500Z",
+        "summary": "BRIDGEPORT - King's Pantry",
+        "start": "2024-08-29T13:15:00-04:00",
+        "end": "2024-08-29T14:15:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>1:15-2:15PM</b><br><b>FAIRFIELD COUNTY</b>",
+        "location": "30 Florence St, Bridgeport, CT 06607, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6get0rn397k1s2e3tpu2eicfbt_20240829T171500Z",
+        "summary": "HARTFORD - SANA Apartments ",
+        "start": "2024-08-29T13:15:00-04:00",
+        "end": "2024-08-29T14:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>1:15-2PM</b><br><b>HARTFORD COUNTY</b><br><br>To access this distribution by car take Windsor St. to Canton St. and turn left onto Donald Street.<br><u></u><br><u></u>",
+        "location": "1630 Main St, Hartford, CT 06120, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3i9gf9366c4pdec5auoig1ml5t_20240830T130000Z",
+        "summary": "HARTFORD - Church of the Most High God",
+        "start": "2024-08-30T09:00:00-04:00",
+        "end": "2024-08-30T09:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>9-9:45AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "692 Garden St, Hartford, CT 06112, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ju0ra4jrmat0r3telclkhp0mv1_20240830T130000Z",
+        "summary": "WINDSOR LOCKS - St. Robert Bellarmine Church",
+        "start": "2024-08-30T09:00:00-04:00",
+        "end": "2024-08-30T09:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Friday, <b>9-9:30AM</b></td></tr></tbody></table><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "52 S Elm St, Windsor Locks, CT 06096, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "k3mn1vg62rqlihb7h5l5khr2ri_20240830T133000Z",
+        "summary": "NORWALK - Macedonia Church",
+        "start": "2024-08-30T09:30:00-04:00",
+        "end": "2024-08-30T10:15:00-04:00",
+        "description": "<p>Every 2 weeks on Friday, <b>9:30-10:15AM</b></p><p><b>FAIRFIELD COUNTY</b></p>",
+        "location": "61 Bayview Ave, Norwalk, CT 06854, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "e2posepklc6kqchp84ektopkh2_20240830T134500Z",
+        "summary": "RIDGEFIELD - St. Andrew's Lutheran Church",
+        "start": "2024-08-30T09:45:00-04:00",
+        "end": "2024-08-30T10:45:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Friday, <b>9:45-10:45AM</b></p><p><b>FAIRFIELD COUNTY</b></p><u></u><u></u>",
+        "location": "St Andrew's Lutheran Church, 6 Ivy Hill Rd, Ridgefield, CT 06877, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "q21qvolen3e62s1b4a2htp5vgv_20240830T153000Z",
+        "summary": "ENFIELD - Enfield Food Shelf ",
+        "start": "2024-08-30T11:30:00-04:00",
+        "end": "2024-08-30T12:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>11:30AM-12PM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "786 Enfield St, Enfield, CT 06082, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "sqvgul7v74skol7bnfpv2jf47a_20240830T160000Z",
+        "summary": "EAST BERLIN - Sacred Heart Church",
+        "start": "2024-08-30T12:00:00-04:00",
+        "end": "2024-08-30T12:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>12-12:30PM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "48 Cottage St, East Berlin, CT 06023, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4qkpuc809ig6kcp1vb6ahf1nkk_20240830T170000Z",
+        "summary": "EAST WINDSOR - St. Catherine Church",
+        "start": "2024-08-30T13:00:00-04:00",
+        "end": "2024-08-30T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>1-1:30PM</b><br><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "6 Windsorville Rd, Broad Brook, CT 06016, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6r3er3kcva23oiricflcl7181n_20240830T170000Z",
+        "summary": "STAMFORD - Bethel AME",
+        "start": "2024-08-30T13:00:00-04:00",
+        "end": "2024-08-30T14:00:00-04:00",
+        "description": "Every 2 weeks on Friday, <b>1-2PM</b><br><b>FAIRFIELD COUNTY</b>",
+        "location": "150 Fairfield Ave, Stamford, CT 06902, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "up0db7mijgm7lfl2r3sp6fd62h_20240830T171500Z",
+        "summary": "ROCKY HILL - The Oasis Church: Elm Ridge Park",
+        "start": "2024-08-30T13:15:00-04:00",
+        "end": "2024-08-30T13:45:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every 2 weeks on Friday <b>1:15 to 1:45pm<br>HARTFORD COUNTY</b></td> </tr></tbody></table><br><u></u><br><u></u>",
+        "location": "376 Elm St, Rocky Hill, CT 06067, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "808luufsbpvs9bbukelqi8i2ps_20240830T174500Z",
+        "summary": "NEW HAVEN - CANCELLED Cornell Scott Hill Health Center",
+        "start": "2024-08-30T13:45:00-04:00",
+        "end": "2024-08-30T14:45:00-04:00",
+        "description": "<u></u>In the gated parking lot <br>Every 2 weeks on Friday, <b>1:45-2:45PM</b><u></u><u></u><br><b>NEW HAVEN COUNTY</b>",
+        "location": "400 Columbus Ave, New Haven, CT 06519, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ula127pkunncqdcp7i4j56fh2g_20240902T123000Z",
+        "summary": "WEST HARTFORD - The Universalist Church",
+        "start": "2024-09-02T08:30:00-04:00",
+        "end": "2024-09-02T09:15:00-04:00",
+        "description": "Every 2 weeks on Monday, 8:30-9:15AM\nHARTFORD COUNTY",
+        "location": "433 Fern St, West Hartford, CT 06107, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "7lurfngr67mr9tka5ln5090js2_20240902T130000Z",
+        "summary": "EAST HARTFORD (CANCELED) - SS Hockanum Park",
+        "start": "2024-09-02T09:00:00-04:00",
+        "end": "2024-09-02T09:30:00-04:00",
+        "description": "Every 2 weeks on Monday, 9-9:30AM\nHARTFORD COUNTY",
+        "location": "75 Hamilton Rd, East Hartford, CT 06118, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "h5sgv4dgui1sf14sia31jrt32s_20240902T134500Z",
+        "summary": "HARTFORD (CANCELED) - Real Art Ways",
+        "start": "2024-09-02T09:45:00-04:00",
+        "end": "2024-09-02T10:15:00-04:00",
+        "description": "Every 2 weeks on Monday, 9:45-10:15AM\nHARTFORD COUNTY",
+        "location": "56 Arbor St, Hartford, CT 06106, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0ggkark341n2aucm1o3gake3qh_20240902T140000Z",
+        "summary": "ANSONIA (CANCELED) - Abundant Life",
+        "start": "2024-09-02T10:00:00-04:00",
+        "end": "2024-09-02T11:00:00-04:00",
+        "description": "Every 2 weeks on Monday, 10-11AM\nNEW HAVEN COUNTY\n\nParking lot across from church, intersection of North Main/6th St.",
+        "location": "195 N Main St, Ansonia, CT 06401, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "7d0mrncbbk0homch0js62stvr6_20240902T140000Z",
+        "summary": "STAMFORD (CANCELED) - Union Baptist",
+        "start": "2024-09-02T10:00:00-04:00",
+        "end": "2024-09-02T10:30:00-04:00",
+        "description": "Every 2 weeks on Monday, 10-10:30AM\nFAIRFIELD COUNTY",
+        "location": "805 Newfield Ave, Stamford, CT 06905, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "vqo3446jjdoe7nrk4lr4hdmbuu_20240902T163000Z",
+        "summary": "EAST HARTFORD (CANCELED) - St. Isaac Jogues Church - Mayberry Village",
+        "start": "2024-09-02T12:30:00-04:00",
+        "end": "2024-09-02T13:15:00-04:00",
+        "description": "Every 2 weeks on Monday, 12:30-1:15PM\nHARTFORD COUNTY",
+        "location": "7 Highview St, East Hartford, CT 06108, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "abm1p74n5l19tno069gm6q9iss_20240902T170000Z",
+        "summary": "SIMSBURY (CANCELED)-First Church of Christ",
+        "start": "2024-09-02T13:00:00-04:00",
+        "end": "2024-09-02T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Monday, <b>1-1:30PM</b><br><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "689 Hopmeadow St, Simsbury, CT 06070, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "estlssserkijas0nf2921qs5vf_20240902T170000Z",
+        "summary": "STRATFORD (CANCELED) - Holy Name of Jesus Church",
+        "start": "2024-09-02T13:00:00-04:00",
+        "end": "2024-09-02T14:00:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Monday, <b>1-2PM</b></p><p><b>FAIRFIELD COUNTY</b></p><u></u><u></u>",
+        "location": "Holy Name Of Jesus Roman Catholic Church, 1950 Barnum Ave, Stratford, CT 06615, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "nv8fj1uhlv0sbc6bmldlnkj7em_20240902T170000Z",
+        "summary": "MIDDLETOWN (CANCELED) - Middlesex Community College",
+        "start": "2024-09-02T13:00:00-04:00",
+        "end": "2024-09-02T13:45:00-04:00",
+        "description": "Every 2 weeks on Monday, 1-1:45PM\nLOWER PARKING LOT\n\nMIDDLESEX COUNTY",
+        "location": "100 Training Hill Rd, Middletown, CT 06457, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "34sbk19o9k45eah7e98rj4rghj_20240903T130000Z",
+        "summary": "BRIDGEPORT - Park City Outreach @Klein Memorial",
+        "start": "2024-09-03T09:00:00-04:00",
+        "end": "2024-09-03T09:45:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>9-9:45AM</b><br><b>FAIRFIELD COUNTY<br></b><br>Large parking lot across the street from Klein Memorial building.",
+        "location": "910 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3ma79hu4g0ct8a0soqahtipq5n_20240903T130000Z",
+        "summary": "NEW BRITAIN - St. Ann Church",
+        "start": "2024-09-03T09:00:00-04:00",
+        "end": "2024-09-03T09:45:00-04:00",
+        "description": "Every 2 weeks on Tuesday,<b> 9:00-9:45AM</b><br><b>HARTFORD COUNTY</b>",
+        "location": "101 North St, New Britain, CT 06051, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ceb37fg3g3t4pn9jtbpcjl020b_20240903T131500Z",
+        "summary": "SOUTHINGTON - The Tabernacle",
+        "start": "2024-09-03T09:15:00-04:00",
+        "end": "2024-09-03T09:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>9:15-9:45AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "1445 West St, Southington, CT 06489, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pmaq6trrnosvndr1ks4d2nic0i_20240903T131500Z",
+        "summary": "WATERBURY - CANCELLED till further notice  PAL Enlightenment",
+        "start": "2024-09-03T09:15:00-04:00",
+        "end": "2024-09-03T10:00:00-04:00",
+        "description": "Every 2 weeks on Tuesday,<b> 9:15-10AM</b><br><b>NEW HAVEN COUNTY</b>",
+        "location": "64 Division St, Waterbury, CT 06704, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "16tf2ebf74g2tjdg323g2n340c_20240903T141500Z",
+        "summary": "NEW BRITAIN - HA Scarlett Drive",
+        "start": "2024-09-03T10:15:00-04:00",
+        "end": "2024-09-03T10:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>10:15-10:45AM</b><br><b>HARTFORD COUNTY<br></b><br>Last parking lot on the right.<br><u></u>",
+        "location": "43 Scarlett Dr, New Britain, CT 06053, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cgl8lteovn2bd7uo44f9h1hdi3_20240903T144500Z",
+        "summary": "NEW HAVEN - Clinton Avenue School",
+        "start": "2024-09-03T10:45:00-04:00",
+        "end": "2024-09-03T11:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>10:45-11:30AM</b><br><b>NEW HAVEN COUNTY<br></b><u></u><br><u></u><u></u>",
+        "location": "Clinton Avenue School, 293 Clinton Ave, New Haven, CT 06513, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "l7ikdtfih9n5ator788uvmueai_20240903T150000Z",
+        "summary": "BURLINGTON - Burlington Social Services",
+        "start": "2024-09-03T11:00:00-04:00",
+        "end": "2024-09-03T11:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>11:00-11:30AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "200 Spielman Hwy, Burlington, CT 06013, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ldqumdfm0jfb0g53m4vcdsdeai_20240903T163000Z",
+        "summary": "WINSTED - Northwest Comm College",
+        "start": "2024-09-03T12:30:00-04:00",
+        "end": "2024-09-03T13:15:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>12:30-1:15PM</b><br><b>LITCHFIELD COUNTY<br></b><br>Parking lot at intersection with Holabird Ave.",
+        "location": "119 N Main St, Winsted, CT 06098, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4nrs9rr0q1745rs0j7a7m44vhj_20240903T164500Z",
+        "summary": "BLOOMFIELD - Bloomfield Senior Center",
+        "start": "2024-09-03T12:45:00-04:00",
+        "end": "2024-09-03T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>12:45-1:30PM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "330 Park Ave, Bloomfield, CT 06002, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pj9toothfg7s73veefnmnqegdn_20240903T170000Z",
+        "summary": "GRANBY - Waste Not Want Not - South Congregational Church",
+        "start": "2024-09-03T13:00:00-04:00",
+        "end": "2024-09-03T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>1:00-1:30 PM</b><br><b>HARTFORD COUNTY<br></b><br>Park behind church.",
+        "location": "242 Salmon Brook St, Granby, CT 06035, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0to7rclhhq38u8fegdbr18tceg_20240903T180000Z",
+        "summary": "EAST HAVEN - FRC@ Adult Ed",
+        "start": "2024-09-03T14:00:00-04:00",
+        "end": "2024-09-03T14:45:00-04:00",
+        "description": "<p>Every 2 weeks on Tuesday, <b>2-2:45PM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "290 Dodge Ave, East Haven, CT 06512, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0h255ug4v8n2geahqpcup5hm32_20240904T130000Z",
+        "summary": "HARTFORD - Pope Park",
+        "start": "2024-09-04T09:00:00-04:00",
+        "end": "2024-09-04T09:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>9-9:45AM</b><br><b>HARTFORD COUNTY<br></b><br>Across from Arroyo Rec Center.<br><br><u></u><br><u></u>",
+        "location": "30 Pope Park Dr, Hartford, CT 06106, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pl1cnng5mi0v6aim35u1u124ja_20240904T130000Z",
+        "summary": "WETHERSFIELD - Wethersfield SS: Lancaster Road",
+        "start": "2024-09-04T09:00:00-04:00",
+        "end": "2024-09-04T09:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Wednesday, <b>9-9:30AM</b></td></tr></tbody></table><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "55 Lancaster Rd, Wethersfield, CT 06109, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "i75nma3549buh4d2jht2eln2cj_20240904T140000Z",
+        "summary": "GLASTONBURY - First Church of Christ Congregational",
+        "start": "2024-09-04T10:00:00-04:00",
+        "end": "2024-09-04T10:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>10-10:45AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "2183 Main St, Glastonbury, CT 06033, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "l2ta35o3mgpv2fe9bju6ieldv0_20240904T153000Z",
+        "summary": "HARTFORD - Cathedral of St. Joseph",
+        "start": "2024-09-04T11:30:00-04:00",
+        "end": "2024-09-04T12:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>11:30AM-12:15PM</b><br><b>HARTFORD COUNTY<br></b><br>Back parking lot - 809 Asylum Ave.<br><br><u></u>",
+        "location": "140 Farmington Ave, Hartford, CT 06105, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4mp4ve4sbi1hfq7hj4209q368s_20240904T154500Z",
+        "summary": "DANBURY - New Hope Baptist Church",
+        "start": "2024-09-04T11:45:00-04:00",
+        "end": "2024-09-04T12:45:00-04:00",
+        "description": "Every 2 weeks on Wednesday, <b>11:45AM-12:45PM </b><br><b>FAIRFIELD COUNTY<br><br></b>Masks are encouraged at this site.",
+        "location": "10 Dr Aaron B Samuels Blvd, Danbury, CT 06810, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "2jnggsf6qeen67toduirmpv1ul_20240904T160000Z",
+        "summary": "BEACON FALLS - Commuter Lot",
+        "start": "2024-09-04T12:00:00-04:00",
+        "end": "2024-09-04T13:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>12PM-1PM</b><br><b>NEW HAVEN COUNTY</b><p>Beacon Falls Commuter Lot<br></p><br><u></u>",
+        "location": "105 N Main St, Beacon Falls, CT 06403, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "hsmc632san7tb8tjfnvbb8lct0_20240904T160000Z",
+        "summary": "MANCHESTER - New River Community Church",
+        "start": "2024-09-04T12:00:00-04:00",
+        "end": "2024-09-04T12:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every 2 weeks on Wednesday, <b>12-12:30PM<br>HARTFORD COUNTY</b></td></tr></tbody></table><br><u></u>",
+        "location": "314 Woodbridge St, Manchester, CT 06042, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "dnus484bdtbb5rn8tvthu17nn7_20240904T180000Z",
+        "summary": "WINDSOR - Windsor Food & Fuel - Hopewell Baptist Church",
+        "start": "2024-09-04T14:00:00-04:00",
+        "end": "2024-09-04T14:30:00-04:00",
+        "description": "Every  2 weeks on Wednesday, <b>2-2:30pm</b><br><b>HARTFORD COUNTY</b>",
+        "location": "280 Windsor Ave, Windsor, CT 06095, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3eh3d31h91qfr8dcn6brr890bb_20240904T203000Z",
+        "summary": "BRIDGEPORT - Bridgeport Hospital",
+        "start": "2024-09-04T16:30:00-04:00",
+        "end": "2024-09-04T17:15:00-04:00",
+        "description": "Every 2 weeks on Wednesday, 4:30-5:15PM\nFAIRFIELD COUNTY\n\nPARKING LOT BEHIND 200 Mill Hill Ave.",
+        "location": "200 Mill Hill Ave, Bridgeport, CT 06610, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "gs9o2rotaru3hvc797f8s3nl28_20240904T203000Z",
+        "summary": "NEW MILFORD - Faith Church",
+        "start": "2024-09-04T16:30:00-04:00",
+        "end": "2024-09-04T17:30:00-04:00",
+        "description": "Every 2 weeks on Wednesday, 4:30-5:30PM\nLITCHFIELD COUNTY",
+        "location": "600 Danbury Rd, New Milford, CT 06776, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "b2622a84kg1mkcdnpcmttqvkbj_20240905T124500Z",
+        "summary": "NEWINGTON - SS Market Square",
+        "start": "2024-09-05T08:45:00-04:00",
+        "end": "2024-09-05T09:15:00-04:00",
+        "description": "Every 2 weeks on Thursday, 8:45-9:15AM\nHARTFORD COUNTY\n\nOff Constance Leigh Dr. Ext.",
+        "location": "84 Market Square, Newington, CT 06111, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "keo1gamn8ql7e8ggnet3gn2sl8_20240905T130000Z",
+        "summary": "ELLINGTON - Ellington LDS Church",
+        "start": "2024-09-05T09:00:00-04:00",
+        "end": "2024-09-05T09:30:00-04:00",
+        "description": "Every  2 weeks on Thursday, 9-9:30AM\nTOLLAND COUNTY",
+        "location": "2 Maple St, Ellington, CT 06029, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ee4k7gl1tq8sjpc2piuosd8anr_20240905T133000Z",
+        "summary": "WEST HAVEN - Vertical Church",
+        "start": "2024-09-05T09:30:00-04:00",
+        "end": "2024-09-05T10:30:00-04:00",
+        "description": "<u></u><u></u>Every 2 weeks on Thursday, <b>9:30-10:30AM</b><br><b>NEW HAVEN COUNTY</b><br><u></u><br><u></u><u></u>",
+        "location": "225 Meloy Rd, West Haven, CT 06516, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4ot8okuragpomdma4rs7q4tn10_20240905T134500Z",
+        "summary": "PLAINFIELD - Central Assembly of God ",
+        "start": "2024-09-05T09:45:00-04:00",
+        "end": "2024-09-05T10:45:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>9:45-10:45AM</b><u></u>",
+        "location": "350 Putnam Rd, Wauregan, CT 06387, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "h2a837ruhisf9gdohkhlptpr53_20240905T140000Z",
+        "summary": "TOLLAND - United Congregational Church of Tolland",
+        "start": "2024-09-05T10:00:00-04:00",
+        "end": "2024-09-05T10:30:00-04:00",
+        "description": "Every 2 weeks on Thursday, 10-10:30AM",
+        "location": "45 Tolland Green, Tolland, CT 06084, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "q58dhvdmueh74o3rqbtdnm5h4r_20240905T140000Z",
+        "summary": "PUTNAM  - Danielson Veterans",
+        "start": "2024-09-05T10:00:00-04:00",
+        "end": "2024-09-05T11:00:00-04:00",
+        "description": "<u></u>Monthly on 1st Thursday, <b>10-11AM</b><u></u>",
+        "location": "18 Kennedy Dr, Putnam, CT 06260, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "8uejd2984i9s1scvjauggonhgt_20240905T141500Z",
+        "summary": "HARTFORD - New Mt. Moriah Baptist Church",
+        "start": "2024-09-05T10:15:00-04:00",
+        "end": "2024-09-05T11:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks on Thursday, <b>10:15-11AM<br></b></td></tr></tbody></table><u></u>",
+        "location": "222 Barbour St, Hartford, CT 06120, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6f8mmohh7ogijf8ob3rpl07akb_20240905T153000Z",
+        "summary": "MANSFIELD - Mansfield Human Services",
+        "start": "2024-09-05T11:30:00-04:00",
+        "end": "2024-09-05T12:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>11:30AM-12PM</b><table><colgroup><col></colgroup><tbody><tr><td><br><br></td></tr></tbody></table><u></u>",
+        "location": "Wrights Way Complex, 309 Maple Road, Mansfield, Storrs",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "jsj098f0cpfcnstrdtfq5mchd8_20240905T163000Z",
+        "summary": "WATERBURY - UConn with United Way",
+        "start": "2024-09-05T12:30:00-04:00",
+        "end": "2024-09-05T13:30:00-04:00",
+        "description": "Every 2 weeks on Thursday, 12:30 - 1:30pm",
+        "location": "119 N Main St, Waterbury, CT 06702, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cjuofct8v4id2dfqsgju8ps26o_20240905T170000Z",
+        "summary": "COLUMBIA - Beckish @Rec. Park  ",
+        "start": "2024-09-05T13:00:00-04:00",
+        "end": "2024-09-05T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>1-1:30PM</b><br><u></u>",
+        "location": "60 Hennequin Rd, Columbia, CT 06237, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "30i6tav0662f3l08ut2qf35867_20240905T171500Z",
+        "summary": "MERIDEN - Mount Hebron",
+        "start": "2024-09-05T13:15:00-04:00",
+        "end": "2024-09-05T14:15:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>1:15-2:15PM</b><u></u>",
+        "location": "84 Franklin St, Meriden, CT 06450, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "nqub8bpdsd153t7ci9lf0phg5k_20240905T171500Z",
+        "summary": "HARTFORD - Church of the Good Shepherd",
+        "start": "2024-09-05T13:15:00-04:00",
+        "end": "2024-09-05T14:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks Thursday, <b>1:15-2PM<br></b></td></tr></tbody></table><br><u></u>",
+        "location": "155 Wyllys St, Hartford, CT 06106, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "85hg4peo5a0fd5phede6scfg1u_20240906T123000Z",
+        "summary": "BRISTOL - U.W.W.C.C. at First Congregational Church ",
+        "start": "2024-09-06T08:30:00-04:00",
+        "end": "2024-09-06T09:15:00-04:00",
+        "description": "New Location at First Congregational Church - Near Federal Hill Green (follow signs for Bristol Hospital. \n\n\nEvery 2 weeks on Friday, 8:30-9:15AM",
+        "location": "31 Maple St, Bristol, CT 06010, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "j9qcidbk0gvo06m604p6755530_20240906T124500Z",
+        "summary": "HAMDEN - Hasan Islamic Center",
+        "start": "2024-09-06T08:45:00-04:00",
+        "end": "2024-09-06T09:30:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Friday, <b>8:45-9AM</b></p><u></u><u></u><u></u>",
+        "location": "Muhammad Islamic Center, 870 Dixwell Ave, Hamden, CT 06514, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "plv5ui9ufdf8ek71qjt01050ia_20240906T130000Z",
+        "summary": "CLINTON - Town Annex Clinton",
+        "start": "2024-09-06T09:00:00-04:00",
+        "end": "2024-09-06T09:45:00-04:00",
+        "description": "Every 4 weeks on Friday, <b>9-9:45AM</b>",
+        "location": "48 E Main St, Clinton, CT 06413, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "7028r89gnoogoa8deqe9lbpmfc_20240906T133000Z",
+        "summary": "BRANFORD - Antioch Church",
+        "start": "2024-09-06T09:30:00-04:00",
+        "end": "2024-09-06T10:15:00-04:00",
+        "description": "Every other Friday. <br><br>Distribution sites/days/times are subject to change due to weather and unforeseen circumstances. Check back often.<br><br>Please also visit <a href=\"https://www.211.org/\"><u>https://www.211.org</u></a> or call 2-1-1 for more food resource information.<u></u>",
+        "location": "65 Burban Dr, Branford, CT 06405, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "o9dic6i8i2jrfg99c5u31fbofs_20240906T143000Z",
+        "summary": "HARTFORD - Bible Way Temple Nation",
+        "start": "2024-09-06T10:30:00-04:00",
+        "end": "2024-09-06T11:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>10:30-11:15AM.</b><br><u></u><br><u></u>",
+        "location": "3053 Main St, Hartford, CT 06120, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "li3nsobc5liv7rrr043ghug2b6_20240906T144500Z",
+        "summary": "NEW BRITAIN - Wheeler Clinic - New Site!  ",
+        "start": "2024-09-06T10:45:00-04:00",
+        "end": "2024-09-06T11:30:00-04:00",
+        "description": "Every other Friday from 10:45 am - 11:45 am",
+        "location": "40 Hart St, New Britain, CT 06052, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3caal8g3t1u5btrqm668pm585r_20240906T170000Z",
+        "summary": "BRIDGEPORT - St. Vincents Hospital",
+        "start": "2024-09-06T13:00:00-04:00",
+        "end": "2024-09-06T14:00:00-04:00",
+        "description": "Every 2 weeks on Friday, <b>1-2PM</b><br><br>VALET PARKING AREA.",
+        "location": "2800 Main St, Bridgeport, CT 06606, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "51ssun62pt4pkd3cfr1mel7v2i_20240906T170000Z",
+        "summary": "NEW LONDON - St. Mary Star of the Sea",
+        "start": "2024-09-06T13:00:00-04:00",
+        "end": "2024-09-06T14:00:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Friday, <b>1-2PM</b></p><u></u><u></u>",
+        "location": "10 Huntington St, New London, CT 06320, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "qvcg7alksnop1kth4lkuij8a7m_20240906T170000Z",
+        "summary": "WEST HARTFORD - Crossroads Plaza",
+        "start": "2024-09-06T13:00:00-04:00",
+        "end": "2024-09-06T13:45:00-04:00",
+        "description": "<u></u>Every 4 weeks on Friday, <b>1-1:45PM</b><br><br>Behind Big Y. <br><br><u></u>",
+        "location": "740 N Main St, West Hartford, CT 06117, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pusqp9dqvrh3cu4fhb4g3oa49n_20240906T171500Z",
+        "summary": "HARTFORD - St. Augustine Church: Webster Theater",
+        "start": "2024-09-06T13:15:00-04:00",
+        "end": "2024-09-06T14:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks on Friday, <b>1:15-2PM<br><br></b></td></tr></tbody></table><u></u>",
+        "location": "31 Webster St, Hartford, CT 06114, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "2t24e2l0u95dmf9pcdd9i72bqe_20240909T130000Z",
+        "summary": "SHELTON - Good Shepherd",
+        "start": "2024-09-09T09:00:00-04:00",
+        "end": "2024-09-09T10:00:00-04:00",
+        "description": "Every 2 weeks on Monday, <b>9-10AM</b>",
+        "location": "182 Coram Ave, Shelton, CT 06484, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cjtgtl9rfkcqglilhcbe1ba4n8_20240909T130000Z",
+        "summary": "BRISTOL - HA Cambridge Park",
+        "start": "2024-09-09T09:00:00-04:00",
+        "end": "2024-09-09T09:30:00-04:00",
+        "description": "Every 2 weeks on Monday, 9-9:30AM\nHARTFORD COUNTY\n\nSecond driveway on left",
+        "location": "207 Davis Dr, Bristol, CT 06010, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "2p2tith8blr4du0bbd70i604hf_20240909T131500Z",
+        "summary": "BRISTOL - HA Gaylord / JFK",
+        "start": "2024-09-09T09:15:00-04:00",
+        "end": "2024-09-09T09:45:00-04:00",
+        "description": "Every 2 weeks on Monday, 9:15-9:45AM",
+        "location": "70 Gaylord St, Bristol, CT 06010, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6suft4fj88pp5jgdvcd05se73i_20240909T133000Z",
+        "summary": "WILLIMANTIC - First Congregational Church",
+        "start": "2024-09-09T09:30:00-04:00",
+        "end": "2024-09-09T10:30:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Monday, <b>9:30-10:30AM</b></p><u></u><u></u>",
+        "location": "199 Valley St, Willimantic, CT 06226, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "1dsq0murhosj4rq2i7rjg02tgo_20240909T143000Z",
+        "summary": "NEW BRITAIN - CHC",
+        "start": "2024-09-09T10:30:00-04:00",
+        "end": "2024-09-09T11:15:00-04:00",
+        "description": "Every 2 weeks on Monday, 10:30-11:15AM",
+        "location": "Community Health Center of New Britain, 85 Lafayette St, New Britain, CT 06051, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "n4rhsg34tobg8a75q067clgamq_20240909T161500Z",
+        "summary": "HARTFORD - UMC of Hartford",
+        "start": "2024-09-09T12:15:00-04:00",
+        "end": "2024-09-09T13:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Monday, <b>12:15-1PM</b><u></u>",
+        "location": "571 Farmington Ave, Hartford, CT 06105, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "243o3mlpiodnnm6h3vano62ho3_20240909T170000Z",
+        "summary": "BRIDGEPORT - Claytor Magnet Academy",
+        "start": "2024-09-09T13:00:00-04:00",
+        "end": "2024-09-09T13:30:00-04:00",
+        "description": "Every 2 weeks on Monday. 1:00 - 1:30 pm.",
+        "location": "240 Ocean Terrace, Bridgeport, CT 06605, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pcaak3ugslqp2mo73jnvndb636_20240909T170000Z",
+        "summary": "PORTLAND - Portland Senior Center",
+        "start": "2024-09-09T13:00:00-04:00",
+        "end": "2024-09-09T13:45:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Monday, <b>1-1:45PM</b></p><u></u><u></u><u></u>",
+        "location": "7 Waverly Ave, Portland, CT 06480, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4drjknr3ug5gnf64f9ms9iepkc_20240909T173000Z",
+        "summary": "EAST HARTFORD - SS Veterans Terrace",
+        "start": "2024-09-09T13:30:00-04:00",
+        "end": "2024-09-09T14:00:00-04:00",
+        "description": "Every 2 weeks on Monday, <b>1:30-2PM</b><br><br><b><i>TEMPORARY NEW LOCATION AT 57 COLUMBUS CIRCLE. Distribution is in REAR parking lot behind 57 Columbus Circle (drive around the circle to see parking lot entrance behind building #57).&nbsp;</i></b><u></u><u></u><u></u>",
+        "location": "102 Columbus St, East Hartford, CT 06108, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "op4918b2heh0lupqh7q55jik5e_20240909T173000Z",
+        "summary": "HARTFORD - Grace Worship Center Church",
+        "start": "2024-09-09T13:30:00-04:00",
+        "end": "2024-09-09T14:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every  2 weeks on Monday, <b>1:30-2PM</b></td> </tr></tbody></table><u></u>",
+        "location": "750 Wethersfield Ave, Hartford, CT 06114, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "23vo1ji3o3uvt6ti8bual7hb91_20240910T123000Z",
+        "summary": "WALLINGFORD - Senior Center",
+        "start": "2024-09-10T08:30:00-04:00",
+        "end": "2024-09-10T09:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>8:30-9:15AM</b><u></u><br><b>NEW HAVEN COUNTY</b>",
+        "location": "Wallingford Senior Center, 238 Washington St, Wallingford, CT 06492, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ra1bemmjm4u45g2btet405k77p_20240910T130000Z",
+        "summary": "FARMINGTON - St. Mary Star of the Sea",
+        "start": "2024-09-10T09:00:00-04:00",
+        "end": "2024-09-10T09:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>9-9:30AM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "145 Main St, Unionville, CT 06085, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "vig8tcikc185ge6h70pn1tshek_20240910T130000Z",
+        "summary": "MANCHESTER - Squire Village",
+        "start": "2024-09-10T09:00:00-04:00",
+        "end": "2024-09-10T09:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>9-9:30AM HARTFORD COUNTY</b><br><br>Use Imperial Drive Access; then left onto Queen Court.<br><u></u>",
+        "location": "48 Spencer St, Manchester, CT 06040, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "oc7708jo7ag7o05iob3p3dkpiv_20240910T140000Z",
+        "summary": "BOLTON - St. George Episcopal Church",
+        "start": "2024-09-10T10:00:00-04:00",
+        "end": "2024-09-10T10:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>10-10:30AM</b><u></u><br><b>TOLLAND COUNTY</b>",
+        "location": "1150 Boston Turnpike, Route 44,Bolton, CT 06043, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "rual17a3f007hlnepad5aekot4_20240910T140000Z",
+        "summary": "AVON - Gifts of Love @Farmington Valley American Muslim Center",
+        "start": "2024-09-10T10:00:00-04:00",
+        "end": "2024-09-10T10:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday <b>10-10:30am</b><br><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "35 Harris Rd, Avon, CT 06001, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "1asallpulgkpdehkk4alenpsjt_20240910T144500Z",
+        "summary": "NEW HAVEN - Better Tomorrows Brookside NEW",
+        "start": "2024-09-10T10:45:00-04:00",
+        "end": "2024-09-10T11:30:00-04:00",
+        "description": "<p>Every 2 weeks on Tuesday, <b>10:45-11:30AM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "6 Solomon Crossing, New Haven, CT 06515, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "mqlv8eknfv2ehvso4dmbd540h8_20240910T150000Z",
+        "summary": "WEST HARTFORD - Town of West Hartford",
+        "start": "2024-09-10T11:00:00-04:00",
+        "end": "2024-09-10T11:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>11-11:30AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "100 Mayflower St, West Hartford, CT 06110, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "nfu35c4d6fche27jp8ms8b22it_20240910T150000Z",
+        "summary": "MILFORD - Kingdom Life Christian Church Cathedral",
+        "start": "2024-09-10T11:00:00-04:00",
+        "end": "2024-09-10T12:00:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>11AM-12PM</b><br><b>NEW HAVEN COUNTY</b>",
+        "location": "1455 Naugatuck Ave, Milford, CT 06461, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6iviumc1d7pucd9kh6unqb6gt7_20240910T151500Z",
+        "summary": "HEBRON - Hebron Interfaith Human Services",
+        "start": "2024-09-10T11:15:00-04:00",
+        "end": "2024-09-10T11:45:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>11:15-11:45AM</b><br><b>TOLLAND COUNTY</b><p><br></p><u></u>",
+        "location": "1 Main St, Hebron, CT 06248, USA (Corner of Rt. 66 & Rt. 85)",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0sebgupq2s3g3ouh8tck9u7vb6_20240910T170000Z",
+        "summary": "VERNON - Park West Apartments - Terrace Drive",
+        "start": "2024-09-10T13:00:00-04:00",
+        "end": "2024-09-10T13:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Tuesday, <b>1-1:30PM</b></td></tr></tbody></table><b>TOLLAND COUNTY</b><br><u></u>",
+        "location": "24 Terrace Dr, Vernon, CT 06066, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ap2us0r9r59cq5hvv1un6ip3qv_20240910T171500Z",
+        "summary": "SUFFIELD - West Suffield Congregational Church",
+        "start": "2024-09-10T13:15:00-04:00",
+        "end": "2024-09-10T13:45:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every 2 weeks on Tuesday, <b>1:15-1:45AM</b></td></tr></tbody></table><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "1408 Mountain Rd, West Suffield, CT 06093, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "1njt0m2etga4dtt7cp0nu4rf24_20240910T173000Z",
+        "summary": "WEST HAVEN - Errera Center",
+        "start": "2024-09-10T13:30:00-04:00",
+        "end": "2024-09-10T14:15:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>1:30-2:15PM</b><br><b>NEW HAVEN COUNTY</b>",
+        "location": "127 Boston Post Rd, West Haven, CT 06516, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "503ku8cdt51qidgg9t3kpkonpq_20240910T181500Z",
+        "summary": "DERBY - Our Lady Queen of Apostles",
+        "start": "2024-09-10T14:15:00-04:00",
+        "end": "2024-09-10T15:00:00-04:00",
+        "description": "<p>Every 2 weeks on Tuesday, <b>2:15-3PM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "212 Elizabeth St, Derby, CT 06418, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ghg52o29nljoq8co30c9a3ip88_20240911T130000Z",
+        "summary": "ANDOVER - Andover Congregational Church",
+        "start": "2024-09-11T09:00:00-04:00",
+        "end": "2024-09-11T09:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>9-9:30AM</b><br><b>TOLLAND COUNTY<br></b><br><u></u>",
+        "location": "359 US-6, Andover, CT 06232, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "vb5cu9jud2o6bc44vf3t893t4h_20240911T130000Z",
+        "summary": "NEW BRITAIN - HA Knapp Village",
+        "start": "2024-09-11T09:00:00-04:00",
+        "end": "2024-09-11T09:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>9-9:30AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "80 Halsey Rd, New Britain, CT 06051, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "99jmshddfft8tdhnmf2evhge60_20240911T140000Z",
+        "summary": "COVENTRY - 1st Congregational @ St. Mary's",
+        "start": "2024-09-11T10:00:00-04:00",
+        "end": "2024-09-11T10:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>10-10:30AM</b><br><b>TOLLAND COUNTY<br></b><u></u><br><u></u>",
+        "location": "1600 Main St, Coventry, CT 06238, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "a6j4ckmdfkbdspehhcni49v3qs_20240911T143000Z",
+        "summary": "EAST HARTFORD - Living Word Church ",
+        "start": "2024-09-11T10:30:00-04:00",
+        "end": "2024-09-11T11:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>10:30 am to 11:15 am </b><br><b>HARTFORD COUNTY<br></b><br>Parking lot entrance.<br><u></u><br><u></u>",
+        "location": "30 Old Roberts St, East Hartford, CT 06108, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "lcsec35pabk3o1v5skl0gkh7f2_20240911T150000Z",
+        "summary": "WILLINGTON - Willington Town Office Building",
+        "start": "2024-09-11T11:00:00-04:00",
+        "end": "2024-09-11T11:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Wednesday, <b>11-11:30AM<br>TOLLAND COUNTY</b><br><br>Behind Town Hall.<br></td></tr></tbody></table><u></u>",
+        "location": "40 Old Farms Rd, Willington, CT 06279, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "30fb6jn6aj6n1v3pv1qeg64lcj_20240911T153000Z",
+        "summary": "WATERBURY - Washington Park",
+        "start": "2024-09-11T11:30:00-04:00",
+        "end": "2024-09-11T12:30:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Wednesday, <b>11:30AM-12:30PM</b></p><p><b>NEW HAVEN COUNTY</b></p><u></u><u></u><u></u>",
+        "location": "283 Sylvan Ave, Waterbury, CT 06706, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ppv8r56qf7i4a4rl20bmkpltb9_20240911T153000Z",
+        "summary": "TORRINGTON - First Congregational Church",
+        "start": "2024-09-11T11:30:00-04:00",
+        "end": "2024-09-11T12:15:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Wednesday, <b>11:30AM-12:15PM</b></p><p><b>LITCHFIELD COUNTY</b></p><u></u><u></u><u></u>",
+        "location": "835 Riverside Ave, Torrington, CT 06790, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "rjehpd89hk0ov9o1qbs04lflh6_20240911T170000Z",
+        "summary": "WATERBURY - Lion of Judah SDA",
+        "start": "2024-09-11T13:00:00-04:00",
+        "end": "2024-09-11T13:45:00-04:00",
+        "description": "<p>Every 2 weeks on Wednesday, <b>1-1:45PM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "513 Meriden Rd, Waterbury, CT 06705, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "vkt5kh4jb5691ls8hb0pv052vv_20240911T170000Z",
+        "summary": "SOMERS - Cong. Church of Somersville",
+        "start": "2024-09-11T13:00:00-04:00",
+        "end": "2024-09-11T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>1-1:30PM</b><br><b>TOLLAND COUNTY<br></b><u></u><br><u></u>",
+        "location": "599 Main St, Somers, CT 06071, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "20nfggatj5odid0um2t0nuihoe_20240911T203000Z",
+        "summary": "HAMDEN - St. Paul Parish",
+        "start": "2024-09-11T16:30:00-04:00",
+        "end": "2024-09-11T17:30:00-04:00",
+        "description": "<u></u><p>Every 2 weeks on Wednesday, <b>4:30-5:15PM</b></p><p><b>NEW HAVEN COUNTY</b></p><u></u>",
+        "location": "306 Circular Ave, Hamden, CT 06514, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "5n270j94g4c0i9um33srifq961_20240911T203000Z",
+        "summary": "DANBURY - Ellsworth School",
+        "start": "2024-09-11T16:30:00-04:00",
+        "end": "2024-09-11T17:30:00-04:00",
+        "description": "Every 2 weeks on Wednesday, <b>4:30-5:30PM</b><br><b>FAIRFIELD COUNTY</b>",
+        "location": "53 Ellsworth Ave, Danbury, CT 06810, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "5kcve8bg33vo82uhu8v2c1uu3g_20240912T130000Z",
+        "summary": "EAST HAMPTON - Lions @ St. Patrick",
+        "start": "2024-09-12T09:00:00-04:00",
+        "end": "2024-09-12T10:00:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>9-10AM</b><br><b>MIDDLESEX COUNTY</b>",
+        "location": "47 W High St, East Hampton, CT 06424, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6lapjm86jtp3uqo1j9v62b7akp_20240912T130000Z",
+        "summary": "HARTFORD - Northend Senior Center",
+        "start": "2024-09-12T09:00:00-04:00",
+        "end": "2024-09-12T09:45:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Thursday, <b>9-9:45AM</b></td> </tr></tbody></table><br><b>HARTFORD COUNTY</b>",
+        "location": "80 Coventry St, Hartford, CT 06112, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "oflmhvvrir1sn04etvun82t0l7_20240912T130000Z",
+        "summary": " STAFFORD SPRINGS - Stafford Community Center",
+        "start": "2024-09-12T09:00:00-04:00",
+        "end": "2024-09-12T09:30:00-04:00",
+        "description": "<u></u><u></u>Every 2 weeks on Thursday, <b>9-9:30AM</b><u></u><br><b>TOLLAND COUNTY</b>",
+        "location": "3 Buckley Hwy. Stafford Springs, CT 06076",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "n1j51qp09i33s1nrpl331tih77_20240912T131500Z",
+        "summary": "NEW HAVEN - Farnam Community Center",
+        "start": "2024-09-12T09:15:00-04:00",
+        "end": "2024-09-12T10:00:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Thursday, <b>9:15-10AM</b></p><p><b>NEW HAVEN COUNTY</b></p><u></u><u></u>",
+        "location": "162 Fillmore St, New Haven, CT 06513, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ulnri3rng9h0f2u05i01luhtjh_20240912T141500Z",
+        "summary": "VERNON - Cornerstone: St. Bernard's Church",
+        "start": "2024-09-12T10:15:00-04:00",
+        "end": "2024-09-12T10:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>10:15-10:45AM</b><br><u></u>",
+        "location": "25 St Bernard's Terrace, Vernon, CT 06066, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pn4dq2mds1ek3mkjiku7eeeiaf_20240912T143000Z",
+        "summary": "HARTFORD - Grace Church of God ",
+        "start": "2024-09-12T10:30:00-04:00",
+        "end": "2024-09-12T11:15:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks on Thursday, <b>10:30-11:15AM</b></td></tr></tbody></table><u></u>",
+        "location": "235 Wethersfield Ave, Hartford, CT 06114, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cael52qs5k9q73ousl8k3claqa_20240912T144500Z",
+        "summary": "NEW HAVEN - Celentano School",
+        "start": "2024-09-12T10:45:00-04:00",
+        "end": "2024-09-12T11:30:00-04:00",
+        "description": "<u></u><u></u>Every 2 weeks on Thursday, <b>10:45-11:30AM</b><u></u><u></u>",
+        "location": "400 Canner St, New Haven, CT 06511, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "p3m7tslt6kcn6ct5feuqdkfkh4_20240912T153000Z",
+        "summary": "SOUTH WINDSOR - Wapping Community Church",
+        "start": "2024-09-12T11:30:00-04:00",
+        "end": "2024-09-12T12:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>11:30AM-12PM</b><br><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "1790 Ellington Rd, South Windsor, CT 06074, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6qqov260s714id2mltdlk2qvdp_20240912T170000Z",
+        "summary": "MERIDEN - New Opportunities of Greater Meriden",
+        "start": "2024-09-12T13:00:00-04:00",
+        "end": "2024-09-12T14:00:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>1-2PM</b><br><b>NEW HAVEN COUNTY</b><br><b><br></b>",
+        "location": "165 Miller St, Meriden, CT 06450, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0elaj8ngsd4aihijq0vnqr3np7_20240912T171500Z",
+        "summary": "BRIDGEPORT - King's Pantry",
+        "start": "2024-09-12T13:15:00-04:00",
+        "end": "2024-09-12T14:15:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>1:15-2:15PM</b><br><b>FAIRFIELD COUNTY</b>",
+        "location": "30 Florence St, Bridgeport, CT 06607, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6get0rn397k1s2e3tpu2eicfbt_20240912T171500Z",
+        "summary": "HARTFORD - SANA Apartments ",
+        "start": "2024-09-12T13:15:00-04:00",
+        "end": "2024-09-12T14:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>1:15-2PM</b><br><b>HARTFORD COUNTY</b><br><br>To access this distribution by car take Windsor St. to Canton St. and turn left onto Donald Street.<br><u></u><br><u></u>",
+        "location": "1630 Main St, Hartford, CT 06120, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "54utqpfu88alplvphghftunko4_20240912T213000Z",
+        "summary": "NAUGATUCK - CANCELLED - Armory ",
+        "start": "2024-09-12T17:30:00-04:00",
+        "end": "2024-09-12T18:30:00-04:00",
+        "description": "<u></u><p><b>Site is being moved, check back for 2nd Thursday of September Updates</b></p><p><br></p><p><br></p><p>((Enter at 543 Rubber Ave parking lot (school) and proceed to Armory...)</p><p>Distribution sites/days/times are subject to change due to weather and unforeseen circumstances. Check back often.<br></p><p>Please also visit <a href=\"https://www.211.org/\" target=\"_blank\">https://www.211.org</a> or call 2-1-1 for more food resource information.</p><u></u>",
+        "location": "Naugatuck, CT 06770, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3i9gf9366c4pdec5auoig1ml5t_20240913T130000Z",
+        "summary": "HARTFORD - Church of the Most High God",
+        "start": "2024-09-13T09:00:00-04:00",
+        "end": "2024-09-13T09:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>9-9:45AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "692 Garden St, Hartford, CT 06112, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ju0ra4jrmat0r3telclkhp0mv1_20240913T130000Z",
+        "summary": "WINDSOR LOCKS - St. Robert Bellarmine Church",
+        "start": "2024-09-13T09:00:00-04:00",
+        "end": "2024-09-13T09:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Friday, <b>9-9:30AM</b></td></tr></tbody></table><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "52 S Elm St, Windsor Locks, CT 06096, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "k3mn1vg62rqlihb7h5l5khr2ri_20240913T133000Z",
+        "summary": "NORWALK - Macedonia Church",
+        "start": "2024-09-13T09:30:00-04:00",
+        "end": "2024-09-13T10:15:00-04:00",
+        "description": "<p>Every 2 weeks on Friday, <b>9:30-10:15AM</b></p><p><b>FAIRFIELD COUNTY</b></p>",
+        "location": "61 Bayview Ave, Norwalk, CT 06854, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "e2posepklc6kqchp84ektopkh2_20240913T134500Z",
+        "summary": "RIDGEFIELD - St. Andrew's Lutheran Church",
+        "start": "2024-09-13T09:45:00-04:00",
+        "end": "2024-09-13T10:45:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Friday, <b>9:45-10:45AM</b></p><p><b>FAIRFIELD COUNTY</b></p><u></u><u></u>",
+        "location": "St Andrew's Lutheran Church, 6 Ivy Hill Rd, Ridgefield, CT 06877, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "q21qvolen3e62s1b4a2htp5vgv_20240913T153000Z",
+        "summary": "ENFIELD - Enfield Food Shelf ",
+        "start": "2024-09-13T11:30:00-04:00",
+        "end": "2024-09-13T12:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>11:30AM-12PM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "786 Enfield St, Enfield, CT 06082, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "sqvgul7v74skol7bnfpv2jf47a_20240913T160000Z",
+        "summary": "EAST BERLIN - Sacred Heart Church",
+        "start": "2024-09-13T12:00:00-04:00",
+        "end": "2024-09-13T12:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>12-12:30PM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "48 Cottage St, East Berlin, CT 06023, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4qkpuc809ig6kcp1vb6ahf1nkk_20240913T170000Z",
+        "summary": "EAST WINDSOR - St. Catherine Church",
+        "start": "2024-09-13T13:00:00-04:00",
+        "end": "2024-09-13T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Friday, <b>1-1:30PM</b><br><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "6 Windsorville Rd, Broad Brook, CT 06016, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6r3er3kcva23oiricflcl7181n_20240913T170000Z",
+        "summary": "STAMFORD - Bethel AME",
+        "start": "2024-09-13T13:00:00-04:00",
+        "end": "2024-09-13T14:00:00-04:00",
+        "description": "Every 2 weeks on Friday, <b>1-2PM</b><br><b>FAIRFIELD COUNTY</b>",
+        "location": "150 Fairfield Ave, Stamford, CT 06902, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "up0db7mijgm7lfl2r3sp6fd62h_20240913T171500Z",
+        "summary": "ROCKY HILL - The Oasis Church: Elm Ridge Park",
+        "start": "2024-09-13T13:15:00-04:00",
+        "end": "2024-09-13T13:45:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every 2 weeks on Friday <b>1:15 to 1:45pm<br>HARTFORD COUNTY</b></td> </tr></tbody></table><br><u></u><br><u></u>",
+        "location": "376 Elm St, Rocky Hill, CT 06067, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "808luufsbpvs9bbukelqi8i2ps_20240913T174500Z",
+        "summary": "NEW HAVEN - Cornell Scott Hill Health Center",
+        "start": "2024-09-13T13:45:00-04:00",
+        "end": "2024-09-13T14:45:00-04:00",
+        "description": "<u></u>In the gated parking lot <br>Every 2 weeks on Friday, <b>1:45-2:45PM</b><u></u><u></u><br><b>NEW HAVEN COUNTY</b>",
+        "location": "400 Columbus Ave, New Haven, CT 06519, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ula127pkunncqdcp7i4j56fh2g_20240916T123000Z",
+        "summary": "WEST HARTFORD - The Universalist Church",
+        "start": "2024-09-16T08:30:00-04:00",
+        "end": "2024-09-16T09:15:00-04:00",
+        "description": "Every 2 weeks on Monday, 8:30-9:15AM\nHARTFORD COUNTY",
+        "location": "433 Fern St, West Hartford, CT 06107, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "7lurfngr67mr9tka5ln5090js2_20240916T130000Z",
+        "summary": "EAST HARTFORD - SS Hockanum Park",
+        "start": "2024-09-16T09:00:00-04:00",
+        "end": "2024-09-16T09:30:00-04:00",
+        "description": "Every 2 weeks on Monday, 9-9:30AM\nHARTFORD COUNTY",
+        "location": "75 Hamilton Rd, East Hartford, CT 06118, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "h5sgv4dgui1sf14sia31jrt32s_20240916T134500Z",
+        "summary": "HARTFORD - Real Art Ways",
+        "start": "2024-09-16T09:45:00-04:00",
+        "end": "2024-09-16T10:15:00-04:00",
+        "description": "Every 2 weeks on Monday, 9:45-10:15AM\nHARTFORD COUNTY",
+        "location": "56 Arbor St, Hartford, CT 06106, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0ggkark341n2aucm1o3gake3qh_20240916T140000Z",
+        "summary": "ANSONIA - Abundant Life",
+        "start": "2024-09-16T10:00:00-04:00",
+        "end": "2024-09-16T11:00:00-04:00",
+        "description": "Every 2 weeks on Monday, 10-11AM\nNEW HAVEN COUNTY\n\nParking lot across from church, intersection of North Main/6th St.",
+        "location": "195 N Main St, Ansonia, CT 06401, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "7d0mrncbbk0homch0js62stvr6_20240916T140000Z",
+        "summary": "STAMFORD - Union Baptist",
+        "start": "2024-09-16T10:00:00-04:00",
+        "end": "2024-09-16T10:30:00-04:00",
+        "description": "Every 2 weeks on Monday, 10-10:30AM\nFAIRFIELD COUNTY",
+        "location": "805 Newfield Ave, Stamford, CT 06905, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "vqo3446jjdoe7nrk4lr4hdmbuu_20240916T163000Z",
+        "summary": "EAST HARTFORD - St. Isaac Jogues Church - Mayberry Village",
+        "start": "2024-09-16T12:30:00-04:00",
+        "end": "2024-09-16T13:15:00-04:00",
+        "description": "Every 2 weeks on Monday, 12:30-1:15PM\nHARTFORD COUNTY",
+        "location": "7 Highview St, East Hartford, CT 06108, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "abm1p74n5l19tno069gm6q9iss_20240916T170000Z",
+        "summary": "SIMSBURY-First Church of Christ",
+        "start": "2024-09-16T13:00:00-04:00",
+        "end": "2024-09-16T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Monday, <b>1-1:30PM</b><br><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "689 Hopmeadow St, Simsbury, CT 06070, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "estlssserkijas0nf2921qs5vf_20240916T170000Z",
+        "summary": "STRATFORD - Holy Name of Jesus Church",
+        "start": "2024-09-16T13:00:00-04:00",
+        "end": "2024-09-16T14:00:00-04:00",
+        "description": "<u></u><u></u><p>Every 2 weeks on Monday, <b>1-2PM</b></p><p><b>FAIRFIELD COUNTY</b></p><u></u><u></u>",
+        "location": "Holy Name Of Jesus Roman Catholic Church, 1950 Barnum Ave, Stratford, CT 06615, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "nv8fj1uhlv0sbc6bmldlnkj7em_20240916T170000Z",
+        "summary": "MIDDLETOWN - Middlesex Community College",
+        "start": "2024-09-16T13:00:00-04:00",
+        "end": "2024-09-16T13:45:00-04:00",
+        "description": "Every 2 weeks on Monday, 1-1:45PM\nLOWER PARKING LOT\n\nMIDDLESEX COUNTY",
+        "location": "100 Training Hill Rd, Middletown, CT 06457, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "34sbk19o9k45eah7e98rj4rghj_20240917T130000Z",
+        "summary": "BRIDGEPORT - Park City Outreach @Klein Memorial",
+        "start": "2024-09-17T09:00:00-04:00",
+        "end": "2024-09-17T09:45:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>9-9:45AM</b><br><b>FAIRFIELD COUNTY<br></b><br>Large parking lot across the street from Klein Memorial building.",
+        "location": "910 Fairfield Ave, Bridgeport, CT 06605, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3ma79hu4g0ct8a0soqahtipq5n_20240917T130000Z",
+        "summary": "NEW BRITAIN - St. Ann Church",
+        "start": "2024-09-17T09:00:00-04:00",
+        "end": "2024-09-17T09:45:00-04:00",
+        "description": "Every 2 weeks on Tuesday,<b> 9:00-9:45AM</b><br><b>HARTFORD COUNTY</b>",
+        "location": "101 North St, New Britain, CT 06051, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ceb37fg3g3t4pn9jtbpcjl020b_20240917T131500Z",
+        "summary": "SOUTHINGTON - The Tabernacle",
+        "start": "2024-09-17T09:15:00-04:00",
+        "end": "2024-09-17T09:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>9:15-9:45AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "1445 West St, Southington, CT 06489, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pmaq6trrnosvndr1ks4d2nic0i_20240917T131500Z",
+        "summary": "WATERBURY - CANCELLED till further notice  PAL Enlightenment",
+        "start": "2024-09-17T09:15:00-04:00",
+        "end": "2024-09-17T10:00:00-04:00",
+        "description": "Every 2 weeks on Tuesday,<b> 9:15-10AM</b><br><b>NEW HAVEN COUNTY</b>",
+        "location": "64 Division St, Waterbury, CT 06704, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "16tf2ebf74g2tjdg323g2n340c_20240917T141500Z",
+        "summary": "NEW BRITAIN - HA Scarlett Drive",
+        "start": "2024-09-17T10:15:00-04:00",
+        "end": "2024-09-17T10:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>10:15-10:45AM</b><br><b>HARTFORD COUNTY<br></b><br>Last parking lot on the right.<br><u></u>",
+        "location": "43 Scarlett Dr, New Britain, CT 06053, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cgl8lteovn2bd7uo44f9h1hdi3_20240917T144500Z",
+        "summary": "NEW HAVEN - Clinton Avenue School",
+        "start": "2024-09-17T10:45:00-04:00",
+        "end": "2024-09-17T11:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>10:45-11:30AM</b><br><b>NEW HAVEN COUNTY<br></b><u></u><br><u></u><u></u>",
+        "location": "Clinton Avenue School, 293 Clinton Ave, New Haven, CT 06513, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "l7ikdtfih9n5ator788uvmueai_20240917T150000Z",
+        "summary": "BURLINGTON - Burlington Social Services",
+        "start": "2024-09-17T11:00:00-04:00",
+        "end": "2024-09-17T11:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>11:00-11:30AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "200 Spielman Hwy, Burlington, CT 06013, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ldqumdfm0jfb0g53m4vcdsdeai_20240917T163000Z",
+        "summary": "WINSTED - Northwest Comm College",
+        "start": "2024-09-17T12:30:00-04:00",
+        "end": "2024-09-17T13:15:00-04:00",
+        "description": "Every 2 weeks on Tuesday, <b>12:30-1:15PM</b><br><b>LITCHFIELD COUNTY<br></b><br>Parking lot at intersection with Holabird Ave.",
+        "location": "119 N Main St, Winsted, CT 06098, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4nrs9rr0q1745rs0j7a7m44vhj_20240917T164500Z",
+        "summary": "BLOOMFIELD - Bloomfield Senior Center",
+        "start": "2024-09-17T12:45:00-04:00",
+        "end": "2024-09-17T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>12:45-1:30PM</b><br><b>HARTFORD COUNTY<br></b><u></u><br><u></u>",
+        "location": "330 Park Ave, Bloomfield, CT 06002, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pj9toothfg7s73veefnmnqegdn_20240917T170000Z",
+        "summary": "GRANBY - Waste Not Want Not - South Congregational Church",
+        "start": "2024-09-17T13:00:00-04:00",
+        "end": "2024-09-17T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Tuesday, <b>1:00-1:30 PM</b><br><b>HARTFORD COUNTY<br></b><br>Park behind church.",
+        "location": "242 Salmon Brook St, Granby, CT 06035, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0to7rclhhq38u8fegdbr18tceg_20240917T180000Z",
+        "summary": "EAST HAVEN - FRC@ Adult Ed",
+        "start": "2024-09-17T14:00:00-04:00",
+        "end": "2024-09-17T14:45:00-04:00",
+        "description": "<p>Every 2 weeks on Tuesday, <b>2-2:45PM</b></p><p><b>NEW HAVEN COUNTY</b></p>",
+        "location": "290 Dodge Ave, East Haven, CT 06512, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "0h255ug4v8n2geahqpcup5hm32_20240918T130000Z",
+        "summary": "HARTFORD - Pope Park",
+        "start": "2024-09-18T09:00:00-04:00",
+        "end": "2024-09-18T09:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>9-9:45AM</b><br><b>HARTFORD COUNTY<br></b><br>Across from Arroyo Rec Center.<br><br><u></u><br><u></u>",
+        "location": "30 Pope Park Dr, Hartford, CT 06106, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "pl1cnng5mi0v6aim35u1u124ja_20240918T130000Z",
+        "summary": "WETHERSFIELD - Wethersfield SS: Lancaster Road",
+        "start": "2024-09-18T09:00:00-04:00",
+        "end": "2024-09-18T09:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every  2 weeks on Wednesday, <b>9-9:30AM</b></td></tr></tbody></table><b>HARTFORD COUNTY</b><br><u></u>",
+        "location": "55 Lancaster Rd, Wethersfield, CT 06109, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "i75nma3549buh4d2jht2eln2cj_20240918T140000Z",
+        "summary": "GLASTONBURY - First Church of Christ Congregational",
+        "start": "2024-09-18T10:00:00-04:00",
+        "end": "2024-09-18T10:45:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>10-10:45AM</b><u></u><br><b>HARTFORD COUNTY</b>",
+        "location": "2183 Main St, Glastonbury, CT 06033, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "l2ta35o3mgpv2fe9bju6ieldv0_20240918T153000Z",
+        "summary": "HARTFORD - Cathedral of St. Joseph",
+        "start": "2024-09-18T11:30:00-04:00",
+        "end": "2024-09-18T12:15:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>11:30AM-12:15PM</b><br><b>HARTFORD COUNTY<br></b><br>Back parking lot - 809 Asylum Ave.<br><br><u></u>",
+        "location": "140 Farmington Ave, Hartford, CT 06105, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4mp4ve4sbi1hfq7hj4209q368s_20240918T154500Z",
+        "summary": "DANBURY - New Hope Baptist Church",
+        "start": "2024-09-18T11:45:00-04:00",
+        "end": "2024-09-18T12:45:00-04:00",
+        "description": "Every 2 weeks on Wednesday, <b>11:45AM-12:45PM </b><br><b>FAIRFIELD COUNTY<br><br></b>Masks are encouraged at this site.",
+        "location": "10 Dr Aaron B Samuels Blvd, Danbury, CT 06810, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "2jnggsf6qeen67toduirmpv1ul_20240918T160000Z",
+        "summary": "BEACON FALLS - Commuter Lot",
+        "start": "2024-09-18T12:00:00-04:00",
+        "end": "2024-09-18T13:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Wednesday, <b>12PM-1PM</b><br><b>NEW HAVEN COUNTY</b><p>Beacon Falls Commuter Lot<br></p><br><u></u>",
+        "location": "105 N Main St, Beacon Falls, CT 06403, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "hsmc632san7tb8tjfnvbb8lct0_20240918T160000Z",
+        "summary": "MANCHESTER - New River Community Church",
+        "start": "2024-09-18T12:00:00-04:00",
+        "end": "2024-09-18T12:30:00-04:00",
+        "description": "<u></u><table> <colgroup><col /> </colgroup><tbody><tr>  <td>Every 2 weeks on Wednesday, <b>12-12:30PM<br>HARTFORD COUNTY</b></td></tr></tbody></table><br><u></u>",
+        "location": "314 Woodbridge St, Manchester, CT 06042, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "dnus484bdtbb5rn8tvthu17nn7_20240918T180000Z",
+        "summary": "WINDSOR - Windsor Food & Fuel - Hopewell Baptist Church",
+        "start": "2024-09-18T14:00:00-04:00",
+        "end": "2024-09-18T14:30:00-04:00",
+        "description": "Every  2 weeks on Wednesday, <b>2-2:30pm</b><br><b>HARTFORD COUNTY</b>",
+        "location": "280 Windsor Ave, Windsor, CT 06095, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "3eh3d31h91qfr8dcn6brr890bb_20240918T203000Z",
+        "summary": "BRIDGEPORT - Bridgeport Hospital",
+        "start": "2024-09-18T16:30:00-04:00",
+        "end": "2024-09-18T17:15:00-04:00",
+        "description": "Every 2 weeks on Wednesday, 4:30-5:15PM\nFAIRFIELD COUNTY\n\nPARKING LOT BEHIND 200 Mill Hill Ave.",
+        "location": "200 Mill Hill Ave, Bridgeport, CT 06610, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "gs9o2rotaru3hvc797f8s3nl28_20240918T203000Z",
+        "summary": "NEW MILFORD - Faith Church",
+        "start": "2024-09-18T16:30:00-04:00",
+        "end": "2024-09-18T17:30:00-04:00",
+        "description": "Every 2 weeks on Wednesday, 4:30-5:30PM\nLITCHFIELD COUNTY",
+        "location": "600 Danbury Rd, New Milford, CT 06776, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "b2622a84kg1mkcdnpcmttqvkbj_20240919T124500Z",
+        "summary": "NEWINGTON - SS Market Square",
+        "start": "2024-09-19T08:45:00-04:00",
+        "end": "2024-09-19T09:15:00-04:00",
+        "description": "Every 2 weeks on Thursday, 8:45-9:15AM\nHARTFORD COUNTY\n\nOff Constance Leigh Dr. Ext.",
+        "location": "84 Market Square, Newington, CT 06111, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "keo1gamn8ql7e8ggnet3gn2sl8_20240919T130000Z",
+        "summary": "ELLINGTON - Ellington LDS Church",
+        "start": "2024-09-19T09:00:00-04:00",
+        "end": "2024-09-19T09:30:00-04:00",
+        "description": "Every  2 weeks on Thursday, 9-9:30AM\nTOLLAND COUNTY",
+        "location": "2 Maple St, Ellington, CT 06029, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "ee4k7gl1tq8sjpc2piuosd8anr_20240919T133000Z",
+        "summary": "WEST HAVEN - Vertical Church",
+        "start": "2024-09-19T09:30:00-04:00",
+        "end": "2024-09-19T10:30:00-04:00",
+        "description": "<u></u><u></u>Every 2 weeks on Thursday, <b>9:30-10:30AM</b><br><b>NEW HAVEN COUNTY</b><br><u></u><br><u></u><u></u>",
+        "location": "225 Meloy Rd, West Haven, CT 06516, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "4ot8okuragpomdma4rs7q4tn10_20240919T134500Z",
+        "summary": "PLAINFIELD - Central Assembly of God ",
+        "start": "2024-09-19T09:45:00-04:00",
+        "end": "2024-09-19T10:45:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>9:45-10:45AM</b><u></u>",
+        "location": "350 Putnam Rd, Wauregan, CT 06387, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "h2a837ruhisf9gdohkhlptpr53_20240919T140000Z",
+        "summary": "TOLLAND - United Congregational Church of Tolland",
+        "start": "2024-09-19T10:00:00-04:00",
+        "end": "2024-09-19T10:30:00-04:00",
+        "description": "Every 2 weeks on Thursday, 10-10:30AM",
+        "location": "45 Tolland Green, Tolland, CT 06084, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "8uejd2984i9s1scvjauggonhgt_20240919T141500Z",
+        "summary": "HARTFORD - New Mt. Moriah Baptist Church",
+        "start": "2024-09-19T10:15:00-04:00",
+        "end": "2024-09-19T11:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks on Thursday, <b>10:15-11AM<br></b></td></tr></tbody></table><u></u>",
+        "location": "222 Barbour St, Hartford, CT 06120, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "6f8mmohh7ogijf8ob3rpl07akb_20240919T153000Z",
+        "summary": "MANSFIELD - Mansfield Human Services",
+        "start": "2024-09-19T11:30:00-04:00",
+        "end": "2024-09-19T12:00:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>11:30AM-12PM</b><table><colgroup><col></colgroup><tbody><tr><td><br><br></td></tr></tbody></table><u></u>",
+        "location": "Wrights Way Complex, 309 Maple Road, Mansfield, Storrs",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "jsj098f0cpfcnstrdtfq5mchd8_20240919T163000Z",
+        "summary": "WATERBURY - UConn with United Way",
+        "start": "2024-09-19T12:30:00-04:00",
+        "end": "2024-09-19T13:30:00-04:00",
+        "description": "Every 2 weeks on Thursday, 12:30 - 1:30pm",
+        "location": "119 N Main St, Waterbury, CT 06702, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "cjuofct8v4id2dfqsgju8ps26o_20240919T170000Z",
+        "summary": "COLUMBIA - Beckish @Rec. Park  ",
+        "start": "2024-09-19T13:00:00-04:00",
+        "end": "2024-09-19T13:30:00-04:00",
+        "description": "<u></u>Every 2 weeks on Thursday, <b>1-1:30PM</b><br><u></u>",
+        "location": "60 Hennequin Rd, Columbia, CT 06237, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "30i6tav0662f3l08ut2qf35867_20240919T171500Z",
+        "summary": "MERIDEN - Mount Hebron",
+        "start": "2024-09-19T13:15:00-04:00",
+        "end": "2024-09-19T14:15:00-04:00",
+        "description": "Every 2 weeks on Thursday, <b>1:15-2:15PM</b><u></u>",
+        "location": "84 Franklin St, Meriden, CT 06450, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "nqub8bpdsd153t7ci9lf0phg5k_20240919T171500Z",
+        "summary": "HARTFORD - Church of the Good Shepherd",
+        "start": "2024-09-19T13:15:00-04:00",
+        "end": "2024-09-19T14:00:00-04:00",
+        "description": "<u></u><table> <colgroup><col> </colgroup><tbody><tr>  <td>Every 2 weeks Thursday, <b>1:15-2PM<br></b></td></tr></tbody></table><br><u></u>",
+        "location": "155 Wyllys St, Hartford, CT 06106, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "85hg4peo5a0fd5phede6scfg1u_20240920T123000Z",
+        "summary": "BRISTOL - U.W.W.C.C. at First Congregational Church ",
+        "start": "2024-09-20T08:30:00-04:00",
+        "end": "2024-09-20T09:15:00-04:00",
+        "description": "New Location at First Congregational Church - Near Federal Hill Green (follow signs for Bristol Hospital. \n\n\nEvery 2 weeks on Friday, 8:30-9:15AM",
+        "location": "31 Maple St, Bristol, CT 06010, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    },
+    {
+        "id": "j9qcidbk0gvo06m604p6755530_20240920T124500Z",
+        "summary": "HAMDEN - Hasan Islamic Center",
+        "start": "2024-09-20T08:45:00-04:00",
+        "end": "2024-09-20T09:30:00-04:00",
+        "description": "<u></u><u></u><u></u><p>Every 2 weeks on Friday, <b>8:45-9AM</b></p><u></u><u></u><u></u>",
+        "location": "Muhammad Islamic Center, 870 Dixwell Ave, Hamden, CT 06514, USA",
+        "creator": "ctfoodbank.events@gmail.com"
+    }
+]

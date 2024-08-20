@@ -1,0 +1,142 @@
+[
+    {
+        "section": "cdc_data_surveillance_section_1",
+        "content": [
+            {
+                "tag": "a",
+                "content": "",
+                "href": ""
+            },
+            {
+                "tag": "h2",
+                "content": "Prevalence of ASD"
+            },
+            {
+                "tag": "ul",
+                "content": "About 1 in 36 children has been identified with autism spectrum disorder (ASD) according to estimates from CDC's Autism and Developmental Disabilities Monitoring (ADDM) Network.[Read Article]\nASD is reported to occur in all racial, ethnic, and socioeconomic groups.[Read Article]\nASD is nearly 4 times more common among boys than among girls.[Read Article]\nAbout 1 in 6 (17%) children aged 3–17 years were diagnosed with a developmental disability, as reported by parents, during a study period of 2009–2017. These included autism, attention-deficit/hyperactivity disorder, blindness, and cerebral palsy, among others.[Read Summary]"
+            },
+            {
+                "tag": "a",
+                "content": "[Read Article]",
+                "href": "https://www.cdc.gov/mmwr/volumes/72/ss/ss7202a1.htm?s_cid=ss7202a1_w"
+            },
+            {
+                "tag": "ul",
+                "content": ""
+            },
+            {
+                "tag": "a",
+                "content": "[Read Article]",
+                "href": "/mmwr/volumes/72/ss/ss7201a1.htm"
+            },
+            {
+                "tag": "ul",
+                "content": ""
+            },
+            {
+                "tag": "a",
+                "content": "[Read Article]",
+                "href": "https://www.cdc.gov/mmwr/volumes/72/ss/ss7202a1.htm?s_cid=ss7202a1_w"
+            },
+            {
+                "tag": "ul",
+                "content": ""
+            },
+            {
+                "tag": "a",
+                "content": "[Read Summary]",
+                "href": "https://pubmed.ncbi.nlm.nih.gov/31558576/"
+            },
+            {
+                "tag": "ul",
+                "content": ""
+            },
+            {
+                "tag": "h3",
+                "content": "What Is Prevalence?‎"
+            }
+        ]
+    },
+    {
+        "section": "cdc_data_surveillance_section_2",
+        "content": [
+            {
+                "Surveillance Year": "2020",
+                "Birth Year": "2012",
+                "Number of ADDM Sites Reporting": "11",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "27.6\r\n(23.1-44.9)",
+                "This is about 1 in X children": "1 in 36"
+            },
+            {
+                "Surveillance Year": "2018",
+                "Birth Year": "2010",
+                "Number of ADDM Sites Reporting": "11",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "23.0\r\n(16.5-38.9)",
+                "This is about 1 in X children": "1 in 44"
+            },
+            {
+                "Surveillance Year": "2016",
+                "Birth Year": "2008",
+                "Number of ADDM Sites Reporting": "11",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "18.5\r\n(18.0-19.1)",
+                "This is about 1 in X children": "1 in 54"
+            },
+            {
+                "Surveillance Year": "2014",
+                "Birth Year": "2006",
+                "Number of ADDM Sites Reporting": "11",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "16.8\r\n(13.1-29.3)",
+                "This is about 1 in X children": "1 in 59"
+            },
+            {
+                "Surveillance Year": "2012",
+                "Birth Year": "2004",
+                "Number of ADDM Sites Reporting": "11",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "14.5\r\n(8.2-24.6)",
+                "This is about 1 in X children": "1 in 69"
+            },
+            {
+                "Surveillance Year": "2010",
+                "Birth Year": "2002",
+                "Number of ADDM Sites Reporting": "11",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "14.7\r\n(5.7-21.9)",
+                "This is about 1 in X children": "1 in 68"
+            },
+            {
+                "Surveillance Year": "2008",
+                "Birth Year": "2000",
+                "Number of ADDM Sites Reporting": "14",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "11.3\r\n(4.8-21.2)",
+                "This is about 1 in X children": "1 in 88"
+            },
+            {
+                "Surveillance Year": "2006",
+                "Birth Year": "1998",
+                "Number of ADDM Sites Reporting": "11",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "9.0\r\n(4.2-12.1)",
+                "This is about 1 in X children": "1 in 110"
+            },
+            {
+                "Surveillance Year": "2004",
+                "Birth Year": "1996",
+                "Number of ADDM Sites Reporting": "8",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "8.0\r\n(4.6-9.8)",
+                "This is about 1 in X children": "1 in 125"
+            },
+            {
+                "Surveillance Year": "2002",
+                "Birth Year": "1994",
+                "Number of ADDM Sites Reporting": "14",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "6.6\r\n(3.3-10.6)",
+                "This is about 1 in X children": "1 in 150"
+            },
+            {
+                "Surveillance Year": "2000",
+                "Birth Year": "1992",
+                "Number of ADDM Sites Reporting": "6",
+                "Combined Prevalence per 1,000 Children (Range Across ADDM Sites)": "6.7\r\n(4.5-9.9)",
+                "This is about 1 in X children": "1 in 150"
+            }
+        ]
+    }
+]
